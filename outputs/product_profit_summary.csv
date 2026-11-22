@@ -1,0 +1,1176 @@
+product_id,product_name,product_category,brand,units_sold,item_rows,gross_sales,profit,average_profit_per_line
+PROD-000001,Apple Sharable bifurcated algorithm Smartphones,Electronics,Apple,724,319,497315.6,105397.67,330.4002194357367
+PROD-000002,Google User-centric even-keeled encryption Smartphones,Electronics,Google,683,328,668151.58,258610.98,788.4481097560976
+PROD-000003,LG Face-to-face client-driven support Smartphones,Electronics,LG,865,395,238316.15,59879.6,151.59392405063292
+PROD-000004,Sony Customer-focused systematic support Smartphones,Electronics,Sony,782,369,876223.1799999999,344305.93,933.0784010840108
+PROD-000005,OnePlus Quality-focused background parallelism Smartphones,Electronics,OnePlus,662,307,848803.16,318948.0,1038.9185667752442
+PROD-000006,Apple Optimized 5thgeneration algorithm Smartphones,Electronics,Apple,718,351,314792.74,112624.16,320.86655270655274
+PROD-000007,HP Cross-group didactic emulation Smartphones,Electronics,HP,683,334,520124.99,181266.8,542.7149700598802
+PROD-000008,Samsung Profit-focused real-time algorithm Smartphones,Electronics,Samsung,738,353,281428.92,100040.8,283.4016997167139
+PROD-000009,LG Realigned dedicated structure Smartphones,Electronics,LG,738,355,585152.82,152586.37,429.82076056338025
+PROD-000010,Asus Streamlined tangible moratorium Smartphones,Electronics,Asus,730,338,634005.0,186058.14,550.4678698224852
+PROD-000011,Samsung Operative directional knowledge user Smartphones,Electronics,Samsung,720,346,712663.2,269974.34,780.2726589595377
+PROD-000012,LG Reverse-engineered even-keeled workforce Smartphones,Electronics,LG,668,326,957611.3999999999,216683.84,664.6743558282209
+PROD-000013,HP Adaptive well-modulated workforce Smartphones,Electronics,HP,812,364,483952.0,183434.1,503.9398351648352
+PROD-000014,Lenovo Diverse tangible interface Smartphones,Electronics,Lenovo,725,341,559845.0,219333.43,643.2065395894427
+PROD-000015,Microsoft Mandatory even-keeled collaboration Smartphones,Electronics,Microsoft,658,319,161019.18,38530.93,120.78661442006269
+PROD-000016,Google Extended well-modulated Graphical User Interface Laptops,Electronics,Google,764,370,810817.92,291757.55,788.5339189189189
+PROD-000017,Dell Customer-focused background implementation Laptops,Electronics,Dell,639,313,581950.08,224421.94,717.0030031948882
+PROD-000018,Sony Cross-platform heuristic hardware Laptops,Electronics,Sony,736,353,888845.1200000001,190532.08,539.7509348441926
+PROD-000019,Dell Robust empowering workforce Laptops,Electronics,Dell,748,350,730997.96,174736.43,499.2469428571428
+PROD-000020,Apple Balanced upward-trending knowledgebase Laptops,Electronics,Apple,776,353,352909.27999999997,141432.52,400.65869688385266
+PROD-000021,Apple Public-key bottom-line implementation Laptops,Electronics,Apple,635,301,447852.8,167773.09,557.3856810631229
+PROD-000022,Dell Configurable neutral frame Laptops,Electronics,Dell,696,333,461990.88,167642.34,503.43045045045045
+PROD-000023,Samsung Self-enabling regional hierarchy Tablets,Electronics,Samsung,676,327,259043.19999999998,63571.19,194.40730886850153
+PROD-000024,Asus Re-engineered content-based strategy Tablets,Electronics,Asus,673,341,998025.3500000001,286463.16,840.067917888563
+PROD-000025,HP Cloned 6thgeneration protocol Tablets,Electronics,HP,700,340,145026.0,38088.89,112.02614705882353
+PROD-000026,Asus Focused zero administration frame Tablets,Electronics,Asus,751,341,861930.2100000001,234955.88,689.0201759530792
+PROD-000027,OnePlus Configurable discrete attitude Tablets,Electronics,OnePlus,737,347,490849.37,184061.96,530.4379250720461
+PROD-000028,Dell Multi-tiered even-keeled knowledgebase Tablets,Electronics,Dell,742,333,749635.1799999999,270015.77,810.8581681681683
+PROD-000029,LG Sharable high-level complexity Tablets,Electronics,LG,743,352,448980.04,154911.92,440.09068181818185
+PROD-000030,Samsung Multi-layered heuristic database Tablets,Electronics,Samsung,764,354,786018.48,190377.83,537.7904802259886
+PROD-000031,Microsoft Synchronized encompassing standardization Tablets,Electronics,Microsoft,699,342,248473.53000000003,66295.55,193.8466374269006
+PROD-000032,Apple Synergized secondary archive Headphones,Electronics,Apple,780,350,725134.8,188468.59,538.4816857142857
+PROD-000033,Microsoft Robust scalable concept Headphones,Electronics,Microsoft,668,321,587539.4,188468.87,587.1304361370717
+PROD-000034,OnePlus Public-key upward-trending encryption Headphones,Electronics,OnePlus,741,342,252132.66,101155.9,295.77748538011696
+PROD-000035,Sony Diverse maximized implementation Headphones,Electronics,Sony,772,353,469885.51999999996,143471.53,406.43492917847027
+PROD-000036,Dell Future-proofed scalable solution Headphones,Electronics,Dell,745,339,390439.60000000003,130625.06,385.32466076696164
+PROD-000037,OnePlus Realigned directional software Headphones,Electronics,OnePlus,786,370,390987.83999999997,162572.89,439.3861891891892
+PROD-000038,Google Inverse zero administration time-frame Headphones,Electronics,Google,740,347,303096.6,71565.94,206.24190201729107
+PROD-000039,Xiaomi Centralized discrete alliance Headphones,Electronics,Xiaomi,702,353,718440.84,178790.44,506.4884985835694
+PROD-000040,Google Intuitive impactful flexibility Smart Watches,Electronics,Google,646,328,285880.84,76362.83,232.81350609756097
+PROD-000041,Sony Cloned didactic open system Smart Watches,Electronics,Sony,688,316,859772.9600000001,212687.65,673.0621835443038
+PROD-000042,HP Universal foreground data-warehouse Smart Watches,Electronics,HP,731,347,250784.16999999998,91862.03,264.7320749279539
+PROD-000043,OnePlus Streamlined modular infrastructure Smart Watches,Electronics,OnePlus,754,351,952618.68,242450.76,690.742905982906
+PROD-000044,LG Stand-alone logistical circuit Smart Watches,Electronics,LG,736,352,635881.92,211087.65,599.6808238636363
+PROD-000045,Samsung Fundamental client-driven encryption Smart Watches,Electronics,Samsung,729,343,259392.78,92805.03,270.56860058309036
+PROD-000046,Samsung User-friendly next generation monitoring Smart Watches,Electronics,Samsung,635,317,393801.6,129345.33,408.02943217665614
+PROD-000047,HP Fundamental value-added paradigm Smart Watches,Electronics,HP,678,316,456104.16000000003,101263.5,320.45411392405066
+PROD-000048,Apple Optimized optimal initiative Smart Watches,Electronics,Apple,714,321,376506.48000000004,123408.56999999999,384.45037383177566
+PROD-000049,Xiaomi Multi-lateral directional challenge Smart Watches,Electronics,Xiaomi,646,324,368407.33999999997,149623.23,461.80009259259265
+PROD-000050,LG Profound modular array Smart Watches,Electronics,LG,722,333,616212.56,251164.62,754.2481081081081
+PROD-000051,HP Versatile actuating budgetary management Smart Watches,Electronics,HP,717,331,989997.75,364187.95,1100.2657099697885
+PROD-000052,Sony Distributed responsive complexity Smart Watches,Electronics,Sony,642,311,536898.1799999999,122535.4,394.00450160771703
+PROD-000053,LG Synergized interactive policy Cameras,Electronics,LG,735,346,789228.3,198292.21,573.0988728323699
+PROD-000054,Asus Cloned human-resource implementation Cameras,Electronics,Asus,685,329,785475.8,263063.55,799.5852583586626
+PROD-000055,Google Right-sized maximized moderator Cameras,Electronics,Google,710,338,726748.9,230087.11,680.7310946745562
+PROD-000056,HP Function-based neutral access Cameras,Electronics,HP,711,323,914267.79,335125.63,1037.5406501547989
+PROD-000057,HP Synergized uniform budgetary management Cameras,Electronics,HP,639,302,161673.38999999998,46481.48,153.91218543046358
+PROD-000058,LG Synergized national system engine Cameras,Electronics,LG,738,359,163511.28,51079.81,142.28359331476324
+PROD-000059,Asus Future-proofed zero administration project Cameras,Electronics,Asus,658,314,683477.76,262563.12,836.188280254777
+PROD-000060,Samsung Mandatory bifurcated frame Gaming Consoles,Electronics,Samsung,697,327,489823.72000000003,113203.75,346.1888379204893
+PROD-000061,Sony Optional cohesive knowledgebase Gaming Consoles,Electronics,Sony,727,341,467744.52999999997,190214.14,557.8127272727273
+PROD-000062,OnePlus Adaptive uniform success Gaming Consoles,Electronics,OnePlus,767,348,1028194.1799999999,376805.41,1082.7741666666666
+PROD-000063,Xiaomi Fundamental motivating task-force Gaming Consoles,Electronics,Xiaomi,738,347,931643.8200000001,285324.29,822.2602017291066
+PROD-000064,HP Enhanced motivating benchmark Gaming Consoles,Electronics,HP,689,323,354428.49,140575.57,435.21848297213626
+PROD-000065,Xiaomi Self-enabling exuding productivity Gaming Consoles,Electronics,Xiaomi,743,343,1018311.22,315731.45,920.4998542274053
+PROD-000066,Microsoft Profit-focused real-time customer loyalty TVs,Electronics,Microsoft,774,364,506172.78,135271.53,371.6250824175824
+PROD-000067,Samsung Distributed holistic task-force TVs,Electronics,Samsung,660,311,893118.6,231172.23,743.3190675241158
+PROD-000068,OnePlus Diverse needs-based time-frame TVs,Electronics,OnePlus,721,340,223062.98,85906.76,252.66694117647057
+PROD-000069,Microsoft Progressive 24hour policy TVs,Electronics,Microsoft,715,351,706677.4,287829.84,820.0280341880342
+PROD-000070,Apple Inverse mobile adapter TVs,Electronics,Apple,641,301,681094.55,292247.98,970.9235215946843
+PROD-000071,HP Customizable high-level workforce TVs,Electronics,HP,711,356,649391.85,191484.56,537.8779775280899
+PROD-000072,Lenovo Integrated disintermediate approach TVs,Electronics,Lenovo,681,327,334745.55,91434.31,279.61562691131496
+PROD-000073,Google Front-line non-volatile artificial intelligence TVs,Electronics,Google,699,329,435490.98,118518.14,360.2375075987842
+PROD-000074,Asus Configurable upward-trending matrix TVs,Electronics,Asus,778,358,1014504.22,300483.49,839.3393575418994
+PROD-000075,Asus Cloned well-modulated monitoring TVs,Electronics,Asus,710,326,228463.8,81805.56999999999,250.93733128834353
+PROD-000076,OnePlus Visionary clear-thinking capacity TVs,Electronics,OnePlus,656,334,339276.64,77242.09,231.26374251497006
+PROD-000077,OnePlus Switchable methodical neural-net TVs,Electronics,OnePlus,716,348,973516.56,287872.13,827.2187643678161
+PROD-000078,Xiaomi Down-sized empowering moderator TVs,Electronics,Xiaomi,728,342,621297.0399999999,185549.63,542.5427777777778
+PROD-000079,Cuisinart Robust interactive data-warehouse Refrigerators,Home Appliances,Cuisinart,724,331,171349.08,59651.909999999996,180.217250755287
+PROD-000080,Electrolux Quality-focused web-enabled superstructure Refrigerators,Home Appliances,Electrolux,755,360,88350.1,31813.51,88.37086111111111
+PROD-000081,Whirlpool Team-oriented dedicated structure Refrigerators,Home Appliances,Whirlpool,676,317,512624.32,137060.74,432.3682649842271
+PROD-000082,Cuisinart Integrated impactful secured line Refrigerators,Home Appliances,Cuisinart,712,337,255686.32,129802.06999999999,385.1693471810089
+PROD-000083,Whirlpool Streamlined holistic intranet Refrigerators,Home Appliances,Whirlpool,741,337,296199.93,73171.35,217.12566765578637
+PROD-000084,Cuisinart Programmable local capability Refrigerators,Home Appliances,Cuisinart,733,346,510981.63,224721.95,649.4854046242775
+PROD-000085,Dyson Fully-configurable directional architecture Refrigerators,Home Appliances,Dyson,740,339,514892.0,221442.66,653.223185840708
+PROD-000086,Miele Mandatory 3rdgeneration parallelism Washing Machines,Home Appliances,Miele,743,342,363891.68,99758.9,291.6926900584795
+PROD-000087,LG Reactive discrete parallelism Washing Machines,Home Appliances,LG,696,337,347331.84,167013.55,495.58916913946587
+PROD-000088,LG Face-to-face 24hour archive Washing Machines,Home Appliances,LG,697,326,552748.88,262842.93,806.2666564417177
+PROD-000089,Samsung Triple-buffered responsive approach Washing Machines,Home Appliances,Samsung,710,358,507053.6,169400.84,473.18670391061454
+PROD-000090,Bosch Focused asymmetric alliance Washing Machines,Home Appliances,Bosch,715,342,423094.1,195964.18,572.994678362573
+PROD-000091,Samsung Managed asynchronous migration Washing Machines,Home Appliances,Samsung,769,340,512576.95,162179.11,476.99738235294114
+PROD-000092,Electrolux Front-line even-keeled secured line Washing Machines,Home Appliances,Electrolux,722,345,533752.94,205239.38,594.8967536231884
+PROD-000093,Panasonic Pre-emptive didactic moratorium Washing Machines,Home Appliances,Panasonic,725,342,477637.25,169710.94,496.2308187134503
+PROD-000094,Dyson De-engineered uniform orchestration Microwaves,Home Appliances,Dyson,742,329,487531.1,142911.46,434.38133738601823
+PROD-000095,Panasonic Re-engineered methodical encryption Microwaves,Home Appliances,Panasonic,637,304,231173.67,116078.34,381.8366447368421
+PROD-000096,Bosch Phased incremental core Microwaves,Home Appliances,Bosch,674,335,84357.84,33393.02,99.6806567164179
+PROD-000097,Bosch Cross-platform bandwidth-monitored protocol Microwaves,Home Appliances,Bosch,736,331,221226.88,81882.42,247.37891238670693
+PROD-000098,Dyson Optional heuristic interface Microwaves,Home Appliances,Dyson,648,320,81738.72,26435.66,82.6114375
+PROD-000099,LG Open-source maximized superstructure Microwaves,Home Appliances,LG,604,289,114119.76000000001,43915.7,151.95743944636678
+PROD-000100,Whirlpool Business-focused systematic projection Microwaves,Home Appliances,Whirlpool,683,323,171480.81,61126.69,189.24671826625388
+PROD-000101,Electrolux Stand-alone bandwidth-monitored approach Microwaves,Home Appliances,Electrolux,659,312,89742.62000000001,35510.67,113.81625
+PROD-000102,Miele Open-architected upward-trending Graphical User Interface Microwaves,Home Appliances,Miele,768,349,419481.60000000003,136209.94,390.28636103151865
+PROD-000103,Whirlpool Customer-focused dynamic core Microwaves,Home Appliances,Whirlpool,688,322,317450.08,134228.5,416.85869565217394
+PROD-000104,Whirlpool Ergonomic national knowledge user Microwaves,Home Appliances,Whirlpool,783,356,226741.13999999998,94632.47,265.82154494382024
+PROD-000105,LG Devolved interactive contingency Microwaves,Home Appliances,LG,757,354,89136.75,24649.85,69.63234463276835
+PROD-000106,Cuisinart Grass-roots maximized encryption Microwaves,Home Appliances,Cuisinart,711,343,417484.98,184530.52,537.9898542274052
+PROD-000107,Dyson Compatible leadingedge workforce Air Conditioners,Home Appliances,Dyson,744,345,155875.44,68011.21,197.13394202898553
+PROD-000108,Bosch Reactive bandwidth-monitored application Air Conditioners,Home Appliances,Bosch,726,349,435759.72000000003,149480.09,428.3097134670487
+PROD-000109,Electrolux Streamlined needs-based access Air Conditioners,Home Appliances,Electrolux,666,323,511761.06,166540.52,515.6053250773994
+PROD-000110,Miele Cross-group web-enabled encoding Air Conditioners,Home Appliances,Miele,673,320,355478.60000000003,149638.98,467.62181250000003
+PROD-000111,Bosch Down-sized incremental matrix Air Conditioners,Home Appliances,Bosch,677,324,236394.86000000002,79663.08,245.8737037037037
+PROD-000112,Bosch Polarized didactic initiative Air Conditioners,Home Appliances,Bosch,757,359,137206.25,69013.89,192.2392479108635
+PROD-000113,Dyson Centralized composite implementation Air Conditioners,Home Appliances,Dyson,772,362,539489.04,165241.12,456.46718232044196
+PROD-000114,LG Adaptive human-resource firmware Air Conditioners,Home Appliances,LG,812,367,136805.75999999998,52859.11,144.03027247956405
+PROD-000115,Cuisinart Persevering executive interface Air Conditioners,Home Appliances,Cuisinart,696,320,153983.04,64613.44,201.917
+PROD-000116,Panasonic Total upward-trending toolset Air Conditioners,Home Appliances,Panasonic,713,347,378674.3,129344.77,372.75149855907785
+PROD-000117,Whirlpool Realigned stable structure Air Conditioners,Home Appliances,Whirlpool,765,333,277105.95,100784.53,302.65624624624627
+PROD-000118,Whirlpool Pre-emptive coherent core Air Conditioners,Home Appliances,Whirlpool,663,314,463795.01999999996,166248.82,529.4548407643313
+PROD-000119,Cuisinart Implemented didactic approach Air Conditioners,Home Appliances,Cuisinart,776,355,115934.40000000001,41655.08,117.33825352112676
+PROD-000120,Dyson Reduced user-facing moratorium Vacuum Cleaners,Home Appliances,Dyson,702,317,358048.08,100350.72,316.563785488959
+PROD-000121,Electrolux Centralized value-added functionalities Vacuum Cleaners,Home Appliances,Electrolux,719,348,267266.68,95387.55,274.1021551724138
+PROD-000122,Samsung Centralized actuating paradigm Vacuum Cleaners,Home Appliances,Samsung,704,333,339278.72000000003,90406.94,271.4923123123123
+PROD-000123,Samsung Polarized motivating moderator Vacuum Cleaners,Home Appliances,Samsung,741,341,572667.03,162010.53,475.1041935483871
+PROD-000124,Bosch Diverse analyzing migration Vacuum Cleaners,Home Appliances,Bosch,720,346,106956.0,52347.25,151.29263005780348
+PROD-000125,LG Configurable contextually-based architecture Vacuum Cleaners,Home Appliances,LG,683,330,113453.13,40901.57,123.94415151515152
+PROD-000126,Electrolux Right-sized asymmetric service-desk Vacuum Cleaners,Home Appliances,Electrolux,748,339,241813.44,72042.71,212.51536873156343
+PROD-000127,Whirlpool Front-line impactful capability Vacuum Cleaners,Home Appliances,Whirlpool,771,369,516670.23,221631.15,600.6264227642276
+PROD-000128,LG Re-contextualized dynamic paradigm Coffee Makers,Home Appliances,LG,718,336,421982.96,140269.59,417.46901785714283
+PROD-000129,Samsung Right-sized 6thgeneration process improvement Coffee Makers,Home Appliances,Samsung,701,344,430799.55,127647.35,371.0678779069768
+PROD-000130,Bosch Configurable intangible protocol Coffee Makers,Home Appliances,Bosch,755,347,169278.55,54204.55,156.2090778097983
+PROD-000131,Dyson Reduced non-volatile model Coffee Makers,Home Appliances,Dyson,716,332,568038.6,223451.39,673.0463554216868
+PROD-000132,Whirlpool Intuitive empowering database Coffee Makers,Home Appliances,Whirlpool,632,316,406685.68,176294.74,557.894746835443
+PROD-000133,Whirlpool Synchronized transitional functionalities Blenders,Home Appliances,Whirlpool,783,356,548796.87,216189.42,607.2736516853932
+PROD-000134,KitchenAid Front-line empowering infrastructure Blenders,Home Appliances,KitchenAid,748,343,469878.63999999996,229794.53,669.9548979591837
+PROD-000135,KitchenAid De-engineered static project Blenders,Home Appliances,KitchenAid,703,324,318937.04,102702.25,316.98225308641975
+PROD-000136,Electrolux Innovative logistical functionalities Blenders,Home Appliances,Electrolux,727,338,528434.49,220263.67,651.6676627218935
+PROD-000137,Samsung Versatile asynchronous access Blenders,Home Appliances,Samsung,669,326,490892.13,242403.43,743.5688036809815
+PROD-000138,KitchenAid Persevering regional open system Blenders,Home Appliances,KitchenAid,749,364,573014.96,163529.81,449.25771978021976
+PROD-000139,Whirlpool Cross-platform asynchronous monitoring Blenders,Home Appliances,Whirlpool,703,333,381229.87,159466.42,478.8781381381382
+PROD-000140,Electrolux Extended motivating firmware Blenders,Home Appliances,Electrolux,781,365,257784.66999999998,90485.42,247.9052602739726
+PROD-000141,Cuisinart De-engineered grid-enabled architecture Blenders,Home Appliances,Cuisinart,775,350,506935.25,173066.46,494.4756
+PROD-000142,Whirlpool Fully-configurable holistic forecast Blenders,Home Appliances,Whirlpool,707,319,315385.63,156703.22,491.2326645768025
+PROD-000143,Bosch Diverse leadingedge moratorium Blenders,Home Appliances,Bosch,746,326,305166.22,83960.7,257.54815950920243
+PROD-000144,Samsung Triple-buffered exuding pricing structure Toasters,Home Appliances,Samsung,728,338,132459.6,63908.06,189.07710059171598
+PROD-000145,Electrolux Streamlined multi-tasking access Toasters,Home Appliances,Electrolux,718,349,382514.5,189252.1,542.2696275071634
+PROD-000146,Samsung Synchronized neutral framework Toasters,Home Appliances,Samsung,761,366,449507.48,227273.09,620.9647267759563
+PROD-000147,Miele Switchable bi-directional challenge Toasters,Home Appliances,Miele,759,364,451126.83,223494.19,613.9950274725275
+PROD-000148,Dyson Fundamental bifurcated benchmark Toasters,Home Appliances,Dyson,648,311,512341.19999999995,212837.39,684.3645980707396
+PROD-000149,LG User-friendly neutral collaboration Toasters,Home Appliances,LG,740,349,495030.4,138361.94,396.4525501432665
+PROD-000150,Dyson Future-proofed executive portal Toasters,Home Appliances,Dyson,723,341,453581.28,190049.42,557.3296774193549
+PROD-000151,Miele Expanded transitional Graphical User Interface Toasters,Home Appliances,Miele,696,323,448224.0,169569.41,524.982693498452
+PROD-000152,Miele Expanded systemic productivity Toasters,Home Appliances,Miele,741,351,544227.4500000001,266758.33,759.9952421652422
+PROD-000153,Panasonic Fundamental motivating matrix Toasters,Home Appliances,Panasonic,807,377,87115.65000000001,35534.65,94.25636604774536
+PROD-000154,Miele Function-based actuating array Toasters,Home Appliances,Miele,725,331,132798.25,63198.97,190.93344410876134
+PROD-000155,Cuisinart Sharable interactive focus group Toasters,Home Appliances,Cuisinart,780,358,485339.4,178594.26,498.86664804469274
+PROD-000156,Dyson Balanced 24hour groupware Toasters,Home Appliances,Dyson,666,322,241365.06,106161.37,329.6936956521739
+PROD-000157,H&M Visionary clear-thinking productivity Men's Clothing,Fashion,H&M,615,303,50805.15,16803.25,55.45627062706271
+PROD-000158,Puma Fundamental cohesive support Men's Clothing,Fashion,Puma,655,319,190978.35,115450.29,361.91313479623824
+PROD-000159,Levi's Organic neutral strategy Men's Clothing,Fashion,Levi's,795,377,133369.19999999998,41404.56,109.82641909814323
+PROD-000160,Adidas Optimized next generation access Men's Clothing,Fashion,Adidas,730,335,127808.40000000001,39760.77,118.68886567164178
+PROD-000161,Levi's Customizable asynchronous solution Men's Clothing,Fashion,Levi's,773,350,151685.79,60946.31,174.13231428571427
+PROD-000162,Mango Distributed needs-based alliance Men's Clothing,Fashion,Mango,700,329,137004.0,58493.82,177.79276595744682
+PROD-000163,Adidas Multi-layered optimal neural-net Men's Clothing,Fashion,Adidas,812,358,26568.64,13704.96,38.28201117318436
+PROD-000164,Zara Digitized intermediate capacity Men's Clothing,Fashion,Zara,707,345,190373.88999999998,91240.64,264.4656231884058
+PROD-000165,Puma Balanced fault-tolerant hierarchy Women's Clothing,Fashion,Puma,750,356,73252.5,42241.86,118.65691011235955
+PROD-000166,Adidas Balanced heuristic database Women's Clothing,Fashion,Adidas,715,326,85042.1,36794.63,112.86696319018404
+PROD-000167,Gucci Synergized dynamic secured line Women's Clothing,Fashion,Gucci,680,315,199124.4,63124.63,200.3956507936508
+PROD-000168,Puma Customer-focused heuristic time-frame Women's Clothing,Fashion,Puma,708,337,120437.88,63817.34,189.36896142433233
+PROD-000169,Forever 21 Realigned incremental process improvement Women's Clothing,Fashion,Forever 21,821,373,173822.12,98960.85,265.31058981233247
+PROD-000170,Mango User-friendly coherent encoding Women's Clothing,Fashion,Mango,759,359,189985.29,61896.229999999996,172.41289693593313
+PROD-000171,Nike Diverse context-sensitive installation Women's Clothing,Fashion,Nike,708,326,135766.08,63102.92,193.56723926380369
+PROD-000172,H&M Assimilated context-sensitive support Women's Clothing,Fashion,H&M,740,344,194250.0,116276.39,338.01276162790697
+PROD-000173,Puma Managed zero tolerance installation Women's Clothing,Fashion,Puma,722,331,90546.02,32969.35,99.60528700906345
+PROD-000174,Adidas Synchronized user-facing workforce Kids' Clothing,Fashion,Adidas,716,348,44477.92,18651.68,53.5967816091954
+PROD-000175,Puma Fully-configurable encompassing complexity Kids' Clothing,Fashion,Puma,743,340,216643.94,79146.05,232.7825
+PROD-000176,H&M Total bi-directional implementation Kids' Clothing,Fashion,H&M,740,341,111910.2,56178.81,164.74724340175953
+PROD-000177,Zara Automated methodical definition Kids' Clothing,Fashion,Zara,717,339,25661.43,9222.49,27.20498525073746
+PROD-000178,Zara Exclusive logistical hardware Kids' Clothing,Fashion,Zara,756,324,226739.52,67123.16,207.17024691358026
+PROD-000179,Forever 21 Integrated discrete definition Kids' Clothing,Fashion,Forever 21,769,351,180961.08,58719.07,167.2907977207977
+PROD-000180,Nike Assimilated stable core Shoes,Fashion,Nike,795,367,70961.7,33702.21,91.83163487738419
+PROD-000181,Tommy Hilfiger Open-architected full-range focus group Shoes,Fashion,Tommy Hilfiger,632,304,181466.16,77772.92,255.8319736842105
+PROD-000182,H&M Cloned zero administration focus group Shoes,Fashion,H&M,722,336,150233.76,66041.58,196.55232142857145
+PROD-000183,Nike Monitored secondary migration Shoes,Fashion,Nike,671,331,34757.799999999996,14163.539999999999,42.79015105740181
+PROD-000184,Puma Open-architected systematic monitoring Shoes,Fashion,Puma,747,341,176478.75,81591.98,239.27266862170086
+PROD-000185,Puma Managed 4thgeneration budgetary management Shoes,Fashion,Puma,740,334,129152.2,54480.52,163.11532934131736
+PROD-000186,Forever 21 Fundamental context-sensitive paradigm Shoes,Fashion,Forever 21,655,312,87101.9,49625.52,159.05615384615385
+PROD-000187,Forever 21 Fundamental 5thgeneration benchmark Shoes,Fashion,Forever 21,753,344,174274.32,75184.72,218.56023255813955
+PROD-000188,Adidas Right-sized intermediate hardware Shoes,Fashion,Adidas,708,335,56378.03999999999,31919.4,95.28179104477613
+PROD-000189,Forever 21 Upgradable zero tolerance functionalities Accessories,Fashion,Forever 21,745,341,88029.2,38927.92,114.15812316715542
+PROD-000190,Gucci Optional real-time migration Accessories,Fashion,Gucci,731,340,104160.19,35301.27,103.82726470588234
+PROD-000191,Forever 21 Customizable human-resource orchestration Accessories,Fashion,Forever 21,741,360,121464.72,49056.5,136.26805555555555
+PROD-000192,Louis Vuitton Ergonomic eco-centric analyzer Accessories,Fashion,Louis Vuitton,636,307,123498.48,44980.4,146.51596091205212
+PROD-000193,Nike Triple-buffered intermediate ability Accessories,Fashion,Nike,635,317,38849.299999999996,14056.54,44.3423974763407
+PROD-000194,Gucci Programmable national software Accessories,Fashion,Gucci,790,363,72924.90000000001,35095.36,96.68143250688705
+PROD-000195,Gucci Up-sized user-facing support Accessories,Fashion,Gucci,714,334,112762.02,58475.77,175.07715568862275
+PROD-000196,Zara Synchronized dedicated hierarchy Bags,Fashion,Zara,696,312,60719.04,35886.75,115.02163461538461
+PROD-000197,Gucci Optional asymmetric secured line Bags,Fashion,Gucci,727,336,40602.950000000004,23779.73,70.77300595238096
+PROD-000198,Louis Vuitton Managed regional functionalities Bags,Fashion,Louis Vuitton,691,337,137813.04,79646.54,236.33988130563796
+PROD-000199,Calvin Klein Switchable bottom-line success Bags,Fashion,Calvin Klein,708,339,191938.80000000002,90256.16,266.2423598820059
+PROD-000200,Zara Innovative motivating function Bags,Fashion,Zara,762,332,52006.5,28639.24,86.26277108433736
+PROD-000201,Puma Synchronized incremental Graphic Interface Bags,Fashion,Puma,722,330,48590.6,25246.31,76.5039696969697
+PROD-000202,Nike Open-architected tangible frame Bags,Fashion,Nike,705,335,31612.2,18106.13,54.048149253731346
+PROD-000203,Calvin Klein Reactive clear-thinking core Bags,Fashion,Calvin Klein,685,335,53272.45,26537.65,79.2168656716418
+PROD-000204,Louis Vuitton Operative static implementation Bags,Fashion,Louis Vuitton,687,324,146543.97,85585.73,264.153487654321
+PROD-000205,H&M Synergistic value-added conglomeration Bags,Fashion,H&M,759,365,148619.79,89520.53,245.26172602739726
+PROD-000206,Calvin Klein Seamless non-volatile framework Bags,Fashion,Calvin Klein,707,336,196432.87999999998,117442.22,349.53041666666667
+PROD-000207,Louis Vuitton Open-architected neutral ability Bags,Fashion,Louis Vuitton,672,327,165137.28,69200.71,211.62296636085628
+PROD-000208,Levi's Innovative executive database Bags,Fashion,Levi's,702,341,55191.240000000005,28036.42,82.21824046920821
+PROD-000209,Zara Optional zero tolerance paradigm Bags,Fashion,Zara,790,365,152556.90000000002,77567.13,212.51268493150687
+PROD-000210,Gucci Robust solution-oriented Graphic Interface Bags,Fashion,Gucci,739,368,169445.31,100953.56,274.3303260869565
+PROD-000211,Zara Persistent leadingedge intranet Watches,Fashion,Zara,759,350,166782.66,55380.17,158.22905714285713
+PROD-000212,Tommy Hilfiger Synergistic didactic migration Watches,Fashion,Tommy Hilfiger,752,361,127080.48000000001,74397.82,206.08814404432135
+PROD-000213,Louis Vuitton Phased user-facing concept Watches,Fashion,Louis Vuitton,704,341,119067.51999999999,66688.59,195.56771260997067
+PROD-000214,H&M Switchable attitude-oriented forecast Watches,Fashion,H&M,580,282,72871.2,45887.36,162.72113475177306
+PROD-000215,H&M Profound stable productivity Watches,Fashion,H&M,772,365,61150.119999999995,30950.32,84.79539726027397
+PROD-000216,Tommy Hilfiger Secured full-range array Watches,Fashion,Tommy Hilfiger,728,346,196086.80000000002,83332.86,240.8464161849711
+PROD-000217,Louis Vuitton Versatile disintermediate service-desk Watches,Fashion,Louis Vuitton,620,305,149401.4,68995.53,226.21485245901638
+PROD-000218,Gucci Integrated directional workforce Watches,Fashion,Gucci,672,328,114502.08,47609.4,145.15060975609757
+PROD-000219,H&M Exclusive client-server algorithm Jewelry,Fashion,H&M,754,331,106208.44,61077.03,184.522749244713
+PROD-000220,Mango Balanced dynamic leverage Jewelry,Fashion,Mango,660,313,80295.6,36382.98,116.23955271565497
+PROD-000221,Nike Seamless zero administration archive Jewelry,Fashion,Nike,742,352,88824.81999999999,29490.75,83.78053977272727
+PROD-000222,Mango Persevering intangible product Jewelry,Fashion,Mango,621,295,53666.82,31076.0,105.34237288135593
+PROD-000223,Gucci Re-engineered content-based structure Jewelry,Fashion,Gucci,666,330,59187.420000000006,35069.36,106.27078787878789
+PROD-000224,Louis Vuitton Total human-resource methodology Jewelry,Fashion,Louis Vuitton,746,341,74473.18,40482.41,118.7167448680352
+PROD-000225,Estée Lauder Open-architected dynamic circuit Skincare,Beauty & Personal Care,Estée Lauder,815,359,17302.45,8346.9,23.250417827298048
+PROD-000226,Benefit Streamlined system-worthy ability Skincare,Beauty & Personal Care,Benefit,725,356,106959.25,63093.76,177.2296629213483
+PROD-000227,Clinique Versatile zero administration benchmark Skincare,Beauty & Personal Care,Clinique,666,319,97056.18,38712.72,121.35648902821318
+PROD-000228,Kiehl's Vision-oriented interactive definition Skincare,Beauty & Personal Care,Kiehl's,711,338,32784.21,17950.55,53.108136094674556
+PROD-000229,MAC Enhanced tangible model Skincare,Beauty & Personal Care,MAC,724,350,101439.64,47570.33,135.91522857142857
+PROD-000230,Maybelline Persistent actuating open architecture Skincare,Beauty & Personal Care,Maybelline,720,336,35424.0,14655.02,43.616130952380956
+PROD-000231,Kiehl's Fully-configurable bottom-line knowledgebase Skincare,Beauty & Personal Care,Kiehl's,719,337,39775.08,21063.48,62.50290801186944
+PROD-000232,Revlon Devolved maximized secured line Skincare,Beauty & Personal Care,Revlon,679,326,29835.26,17625.34,54.065460122699385
+PROD-000233,Revlon Progressive next generation policy Skincare,Beauty & Personal Care,Revlon,760,361,38311.6,18191.52,50.39202216066482
+PROD-000234,Clinique Intuitive web-enabled intranet Skincare,Beauty & Personal Care,Clinique,765,364,59180.4,27776.57,76.30925824175824
+PROD-000235,Clinique Seamless uniform middleware Skincare,Beauty & Personal Care,Clinique,743,340,42440.16,24394.63,71.74891176470588
+PROD-000236,Revlon Optimized neutral knowledge user Skincare,Beauty & Personal Care,Revlon,687,319,102081.33,55401.8,173.67335423197494
+PROD-000237,Clinique Diverse value-added leverage Skincare,Beauty & Personal Care,Clinique,715,345,32639.75,14540.3,42.145797101449276
+PROD-000238,Maybelline Organized empowering system engine Makeup,Beauty & Personal Care,Maybelline,702,337,65559.78,32180.68,95.49163204747775
+PROD-000239,Kiehl's Fully-configurable scalable focus group Makeup,Beauty & Personal Care,Kiehl's,711,321,41835.240000000005,15990.74,49.81538940809969
+PROD-000240,Benefit Visionary zero-defect model Makeup,Beauty & Personal Care,Benefit,770,358,111727.0,63857.82,178.37379888268157
+PROD-000241,Clinique Pre-emptive responsive encoding Makeup,Beauty & Personal Care,Clinique,788,384,111399.56,64280.96,167.39833333333334
+PROD-000242,MAC Grass-roots leadingedge archive Makeup,Beauty & Personal Care,MAC,725,342,82476.0,38635.13,112.968216374269
+PROD-000243,Clinique Universal executive encoding Makeup,Beauty & Personal Care,Clinique,753,353,22266.21,9227.45,26.140084985835696
+PROD-000244,Maybelline Future-proofed full-range functionalities Makeup,Beauty & Personal Care,Maybelline,701,327,23069.91,13214.99,40.41281345565749
+PROD-000245,Benefit Quality-focused attitude-oriented challenge Hair Care,Beauty & Personal Care,Benefit,709,333,73119.17,35897.25,107.79954954954955
+PROD-000246,NARS Distributed discrete info-mediaries Hair Care,Beauty & Personal Care,NARS,730,342,96951.3,52246.08,152.76631578947368
+PROD-000247,NARS Team-oriented coherent strategy Hair Care,Beauty & Personal Care,NARS,696,330,49750.08,26261.11,79.57912121212121
+PROD-000248,MAC Extended asymmetric instruction set Hair Care,Beauty & Personal Care,MAC,741,352,38672.79,17016.7,48.34289772727273
+PROD-000249,CoverGirl Open-source full-range moratorium Hair Care,Beauty & Personal Care,CoverGirl,744,343,31627.44,12215.61,35.614023323615164
+PROD-000250,Clinique Persistent intangible approach Hair Care,Beauty & Personal Care,Clinique,704,327,60614.4,23876.16,73.01577981651376
+PROD-000251,Benefit Expanded intangible info-mediaries Hair Care,Beauty & Personal Care,Benefit,687,327,18116.19,7114.95,21.758256880733946
+PROD-000252,Estée Lauder Visionary optimal standardization Hair Care,Beauty & Personal Care,Estée Lauder,688,326,39140.32,22187.48,68.059754601227
+PROD-000253,Clinique Ameliorated well-modulated orchestration Hair Care,Beauty & Personal Care,Clinique,723,328,69993.63,33173.95,101.14009146341462
+PROD-000254,Maybelline Multi-tiered mission-critical ability Hair Care,Beauty & Personal Care,Maybelline,736,331,88614.40000000001,51173.57,154.60293051359517
+PROD-000255,L'Oreal Multi-channeled exuding system engine Hair Care,Beauty & Personal Care,L'Oreal,695,322,31129.05,12824.59,39.82791925465838
+PROD-000256,Maybelline Networked intangible monitoring Hair Care,Beauty & Personal Care,Maybelline,751,348,67424.78,28576.56,82.11655172413793
+PROD-000257,Benefit User-friendly user-facing moratorium Hair Care,Beauty & Personal Care,Benefit,754,346,43649.06,17651.41,51.01563583815029
+PROD-000258,NARS Robust directional matrix Hair Care,Beauty & Personal Care,NARS,680,321,87380.0,50075.13,155.99728971962617
+PROD-000259,Benefit Face-to-face encompassing Internet solution Fragrances,Beauty & Personal Care,Benefit,782,354,95106.84,54540.72,154.06983050847458
+PROD-000260,Kiehl's Pre-emptive 4thgeneration info-mediaries Fragrances,Beauty & Personal Care,Kiehl's,763,363,84784.56,37238.02,102.58407713498622
+PROD-000261,Kiehl's Mandatory static service-desk Fragrances,Beauty & Personal Care,Kiehl's,789,351,84541.35,41535.21,118.33393162393162
+PROD-000262,CoverGirl Open-architected uniform concept Fragrances,Beauty & Personal Care,CoverGirl,732,334,42748.799999999996,23925.38,71.63287425149701
+PROD-000263,Estée Lauder Persistent clear-thinking process improvement Fragrances,Beauty & Personal Care,Estée Lauder,743,341,68110.81,35019.69,102.69703812316716
+PROD-000264,Maybelline Public-key 4thgeneration infrastructure Fragrances,Beauty & Personal Care,Maybelline,727,351,103684.74,60563.93,172.54680911680913
+PROD-000265,MAC Reverse-engineered non-volatile protocol Fragrances,Beauty & Personal Care,MAC,663,317,53583.659999999996,24701.79,77.92362776025237
+PROD-000266,L'Oreal Assimilated attitude-oriented project Fragrances,Beauty & Personal Care,L'Oreal,685,331,90488.5,36029.66,108.85093655589125
+PROD-000267,Maybelline Optimized client-driven Local Area Network Fragrances,Beauty & Personal Care,Maybelline,613,307,65915.89,26036.91,84.81078175895766
+PROD-000268,NARS Enterprise-wide actuating firmware Fragrances,Beauty & Personal Care,NARS,664,317,20823.04,9958.56,31.41501577287066
+PROD-000269,NARS Multi-tiered fresh-thinking data-warehouse Fragrances,Beauty & Personal Care,NARS,713,335,49467.939999999995,21134.73,63.08874626865671
+PROD-000270,MAC Persevering fresh-thinking Graphical User Interface Fragrances,Beauty & Personal Care,MAC,726,345,101335.08,50704.8,146.9704347826087
+PROD-000271,Revlon Virtual homogeneous focus group Fragrances,Beauty & Personal Care,Revlon,619,320,91537.72,37765.36,118.01675
+PROD-000272,Benefit Versatile intangible extranet Fragrances,Beauty & Personal Care,Benefit,693,320,96271.56,37994.15,118.73171875
+PROD-000273,Kiehl's Configurable methodical adapter Fragrances,Beauty & Personal Care,Kiehl's,757,355,70234.45999999999,36265.29,102.15574647887324
+PROD-000274,CoverGirl User-friendly needs-based application Bath & Body,Beauty & Personal Care,CoverGirl,747,345,42526.71,17990.17,52.14542028985507
+PROD-000275,NARS Monitored directional projection Bath & Body,Beauty & Personal Care,NARS,692,336,39229.479999999996,20443.5,60.84375
+PROD-000276,Maybelline Cloned zero-defect projection Bath & Body,Beauty & Personal Care,Maybelline,744,352,103252.31999999999,55462.5,157.56392045454547
+PROD-000277,MAC Balanced web-enabled algorithm Bath & Body,Beauty & Personal Care,MAC,724,338,81993.0,41978.61,124.19707100591717
+PROD-000278,Maybelline Fully-configurable dedicated adapter Bath & Body,Beauty & Personal Care,Maybelline,811,373,59478.740000000005,35419.79,94.95922252010725
+PROD-000279,NARS Secured coherent encoding Bath & Body,Beauty & Personal Care,NARS,742,343,59189.34,28994.28,84.53142857142856
+PROD-000280,Clinique De-engineered methodical secured line Bath & Body,Beauty & Personal Care,Clinique,677,307,41120.98,18714.65,60.959771986970686
+PROD-000281,Clinique Customizable non-volatile data-warehouse Bath & Body,Beauty & Personal Care,Clinique,691,316,8174.53,3648.47,11.545791139240505
+PROD-000282,Revlon Persistent tangible extranet Bath & Body,Beauty & Personal Care,Revlon,671,316,96993.05,56068.89,177.43319620253163
+PROD-000283,Estée Lauder Visionary holistic concept Bath & Body,Beauty & Personal Care,Estée Lauder,741,351,16264.949999999999,5939.67,16.92213675213675
+PROD-000284,CoverGirl Robust real-time synergy Bath & Body,Beauty & Personal Care,CoverGirl,739,351,68985.65,41023.18,116.87515669515669
+PROD-000285,Kiehl's Universal bifurcated time-frame Bath & Body,Beauty & Personal Care,Kiehl's,765,355,30133.35,11790.15,33.21169014084507
+PROD-000286,Estée Lauder Diverse fault-tolerant benchmark Men's Grooming,Beauty & Personal Care,Estée Lauder,787,381,28882.9,17613.85,46.230577427821515
+PROD-000287,Kiehl's Reduced 4thgeneration function Men's Grooming,Beauty & Personal Care,Kiehl's,691,324,61554.28,35981.5,111.05401234567901
+PROD-000288,MAC Re-engineered systematic implementation Men's Grooming,Beauty & Personal Care,MAC,713,334,52376.979999999996,25478.47,76.28284431137725
+PROD-000289,Kiehl's Object-based transitional customer loyalty Men's Grooming,Beauty & Personal Care,Kiehl's,722,358,47731.42,23402.579999999998,65.37033519553071
+PROD-000290,Maybelline Compatible optimizing solution Men's Grooming,Beauty & Personal Care,Maybelline,673,316,23871.309999999998,9171.97,29.02522151898734
+PROD-000291,Kiehl's Self-enabling dynamic benchmark Men's Grooming,Beauty & Personal Care,Kiehl's,709,340,44142.34,24072.15,70.8004411764706
+PROD-000292,L'Oreal Total zero administration framework Men's Grooming,Beauty & Personal Care,L'Oreal,695,330,46717.9,28814.5,87.31666666666666
+PROD-000293,Kiehl's Synergized radical workforce Men's Grooming,Beauty & Personal Care,Kiehl's,751,348,82790.24,38523.12,110.69862068965519
+PROD-000294,Revlon Decentralized non-volatile toolset Oral Care,Beauty & Personal Care,Revlon,728,330,29906.239999999998,16650.06,50.454727272727276
+PROD-000295,Kiehl's Balanced grid-enabled monitoring Oral Care,Beauty & Personal Care,Kiehl's,752,348,9595.52,5643.82,16.21787356321839
+PROD-000296,MAC Optimized stable hub Oral Care,Beauty & Personal Care,MAC,751,360,26285.0,11908.86,33.08016666666667
+PROD-000297,Benefit Cloned motivating project Oral Care,Beauty & Personal Care,Benefit,704,333,16839.68,9259.65,27.806756756756755
+PROD-000298,NARS Mandatory 24/7 instruction set Oral Care,Beauty & Personal Care,NARS,734,345,95273.2,39456.18,114.36573913043479
+PROD-000299,Kiehl's Pre-emptive bi-directional Internet solution Deodorants,Beauty & Personal Care,Kiehl's,741,342,76715.73,40798.63,119.29423976608186
+PROD-000300,L'Oreal Multi-lateral scalable knowledgebase Deodorants,Beauty & Personal Care,L'Oreal,650,300,88068.5,55557.56,185.19186666666667
+PROD-000301,Revlon Triple-buffered coherent Internet solution Deodorants,Beauty & Personal Care,Revlon,627,321,24515.7,14998.71,46.724953271028035
+PROD-000302,CoverGirl Enhanced upward-trending model Deodorants,Beauty & Personal Care,CoverGirl,748,343,68539.23999999999,35477.39,103.43262390670554
+PROD-000303,CoverGirl Streamlined encompassing pricing structure Deodorants,Beauty & Personal Care,CoverGirl,725,351,90219.0,48434.41,137.98977207977208
+PROD-000304,MAC Public-key zero-defect matrices Deodorants,Beauty & Personal Care,MAC,713,340,45033.08,21346.2,62.782941176470594
+PROD-000305,Kiehl's Persistent intermediate superstructure Deodorants,Beauty & Personal Care,Kiehl's,702,331,68360.76,35335.02,106.75232628398791
+PROD-000306,Benefit Reverse-engineered encompassing Graphic Interface Deodorants,Beauty & Personal Care,Benefit,777,356,55213.62,29201.18,82.02578651685393
+PROD-000307,Estée Lauder Fully-configurable background focus group Deodorants,Beauty & Personal Care,Estée Lauder,642,304,75049.8,42454.78,139.65388157894736
+PROD-000308,Wayfair Organized dynamic system engine Cookware,Home & Kitchen,Wayfair,656,316,132944.96,45846.17,145.0828164556962
+PROD-000309,IKEA Persistent non-volatile pricing structure Cookware,Home & Kitchen,IKEA,722,346,129028.62,69721.88,201.50832369942196
+PROD-000310,Home Depot Synchronized homogeneous Graphical User Interface Cookware,Home & Kitchen,Home Depot,656,310,146635.68,57452.24,185.3298064516129
+PROD-000311,Williams-Sonoma Assimilated modular Graphic Interface Cookware,Home & Kitchen,Williams-Sonoma,781,361,53615.65,19041.47,52.746454293628815
+PROD-000312,Walmart Enterprise-wide mobile data-warehouse Cookware,Home & Kitchen,Walmart,642,303,139564.38,74157.83,244.74531353135313
+PROD-000313,Home Depot Multi-channeled empowering Graphical User Interface Cookware,Home & Kitchen,Home Depot,713,331,15743.039999999999,5192.17,15.68631419939577
+PROD-000314,Home Depot Grass-roots radical standardization Cookware,Home & Kitchen,Home Depot,632,302,149758.72,74861.03,247.88420529801323
+PROD-000315,Wayfair Grass-roots next generation access Kitchen Utensils,Home & Kitchen,Wayfair,731,343,194299.8,69484.28,202.57807580174926
+PROD-000316,IKEA Programmable content-based artificial intelligence Kitchen Utensils,Home & Kitchen,IKEA,731,347,14057.130000000001,7583.9,21.855619596541786
+PROD-000317,Williams-Sonoma Front-line uniform installation Kitchen Utensils,Home & Kitchen,Williams-Sonoma,766,351,269210.7,107174.15,305.3394586894587
+PROD-000318,IKEA Pre-emptive next generation task-force Kitchen Utensils,Home & Kitchen,IKEA,706,316,191354.24000000002,99143.42,313.745
+PROD-000319,Williams-Sonoma Front-line system-worthy leverage Kitchen Utensils,Home & Kitchen,Williams-Sonoma,807,358,142217.61,65233.11,182.21539106145252
+PROD-000320,IKEA Stand-alone transitional matrix Kitchen Utensils,Home & Kitchen,IKEA,737,364,24379.96,12900.87,35.44195054945055
+PROD-000321,Williams-Sonoma Organized 3rdgeneration array Bedding,Home & Kitchen,Williams-Sonoma,670,317,31409.6,13358.7,42.1410094637224
+PROD-000322,Wayfair Implemented directional initiative Bedding,Home & Kitchen,Wayfair,757,338,124814.16,60566.28,179.1901775147929
+PROD-000323,Williams-Sonoma Team-oriented dynamic function Bedding,Home & Kitchen,Williams-Sonoma,670,328,195526.1,96926.19,295.5066768292683
+PROD-000324,Target Switchable optimal hub Bedding,Home & Kitchen,Target,717,346,142166.76,56877.8,164.38670520231216
+PROD-000325,Pottery Barn Phased neutral moderator Bedding,Home & Kitchen,Pottery Barn,687,325,204066.48,107959.01,332.18156923076924
+PROD-000326,Crate & Barrel Monitored interactive synergy Bedding,Home & Kitchen,Crate & Barrel,601,302,69697.97,30094.75,99.65149006622516
+PROD-000327,Target Reactive full-range help-desk Bedding,Home & Kitchen,Target,760,329,156636.0,64538.75,196.1664133738602
+PROD-000328,IKEA Total logistical flexibility Bathroom Accessories,Home & Kitchen,IKEA,764,353,238215.2,130725.61,370.327507082153
+PROD-000329,Home Depot Integrated eco-centric emulation Bathroom Accessories,Home & Kitchen,Home Depot,678,321,200247.30000000002,91407.56,284.758753894081
+PROD-000330,Williams-Sonoma Decentralized uniform core Bathroom Accessories,Home & Kitchen,Williams-Sonoma,764,360,139361.24,68251.65,189.58791666666664
+PROD-000331,Williams-Sonoma Intuitive bottom-line synergy Bathroom Accessories,Home & Kitchen,Williams-Sonoma,754,350,243376.12,97385.12,278.2432
+PROD-000332,Target Public-key well-modulated solution Bathroom Accessories,Home & Kitchen,Target,741,361,179499.84,86257.39,238.94013850415513
+PROD-000333,Crate & Barrel Enterprise-wide content-based data-warehouse Bathroom Accessories,Home & Kitchen,Crate & Barrel,686,325,252564.62,131226.83,403.7748615384615
+PROD-000334,IKEA User-centric mission-critical focus group Bathroom Accessories,Home & Kitchen,IKEA,653,334,121921.63,65178.38,195.14485029940118
+PROD-000335,Home Depot Up-sized optimizing task-force Bathroom Accessories,Home & Kitchen,Home Depot,611,307,214509.88,80577.67,262.46798045602605
+PROD-000336,Crate & Barrel Progressive radical forecast Bathroom Accessories,Home & Kitchen,Crate & Barrel,762,348,204696.06,80250.89,230.60600574712643
+PROD-000337,Walmart Cross-platform content-based frame Bathroom Accessories,Home & Kitchen,Walmart,751,346,83451.12000000001,35656.09,103.05228323699421
+PROD-000338,Home Depot Focused high-level conglomeration Bathroom Accessories,Home & Kitchen,Home Depot,742,336,293275.5,101768.25,302.88169642857144
+PROD-000339,Crate & Barrel Innovative 24/7 strategy Bathroom Accessories,Home & Kitchen,Crate & Barrel,699,334,200368.35,66654.36,199.5639520958084
+PROD-000340,Walmart Public-key clear-thinking focus group Bathroom Accessories,Home & Kitchen,Walmart,727,340,169870.82,54854.7,161.33735294117645
+PROD-000341,Pottery Barn Balanced actuating neural-net Bathroom Accessories,Home & Kitchen,Pottery Barn,676,315,191652.75999999998,91884.56,291.69701587301586
+PROD-000342,Target Implemented tangible capacity Furniture,Home & Kitchen,Target,647,325,251592.42,79436.19,244.41904615384615
+PROD-000343,Wayfair Sharable web-enabled matrix Furniture,Home & Kitchen,Wayfair,745,351,258433.05,94726.23,269.87529914529915
+PROD-000344,Home Depot Customer-focused 24/7 orchestration Furniture,Home & Kitchen,Home Depot,672,312,224535.36,122705.17,393.2858012820513
+PROD-000345,Target Horizontal methodical matrices Furniture,Home & Kitchen,Target,680,314,70414.0,38600.48,122.93146496815288
+PROD-000346,Williams-Sonoma Organic global contingency Furniture,Home & Kitchen,Williams-Sonoma,671,332,189939.97,91686.0,276.16265060240966
+PROD-000347,Target Business-focused eco-centric matrices Furniture,Home & Kitchen,Target,770,354,30923.199999999997,14280.41,40.340141242937854
+PROD-000348,Williams-Sonoma Customizable asymmetric initiative Furniture,Home & Kitchen,Williams-Sonoma,676,318,215934.68,107104.16,336.805534591195
+PROD-000349,Home Depot Pre-emptive asynchronous orchestration Decor,Home & Kitchen,Home Depot,773,350,275265.3,114728.62,327.79605714285714
+PROD-000350,IKEA Self-enabling systemic application Decor,Home & Kitchen,IKEA,625,324,15243.75,5428.77,16.755462962962966
+PROD-000351,Walmart Distributed coherent workforce Decor,Home & Kitchen,Walmart,624,307,219498.24,95211.92,310.13654723127036
+PROD-000352,Wayfair Re-contextualized exuding artificial intelligence Decor,Home & Kitchen,Wayfair,647,321,208676.91,68391.68,213.05819314641744
+PROD-000353,Walmart Fully-configurable bottom-line open architecture Decor,Home & Kitchen,Walmart,680,332,211051.6,98660.5,297.1701807228916
+PROD-000354,Walmart Virtual intangible portal Decor,Home & Kitchen,Walmart,690,324,177047.09999999998,61066.0,188.47530864197532
+PROD-000355,Target Right-sized regional definition Decor,Home & Kitchen,Target,795,372,247078.05000000002,115389.04,310.18559139784946
+PROD-000356,IKEA Vision-oriented multi-state implementation Decor,Home & Kitchen,IKEA,780,348,233196.6,114955.75,330.3326149425287
+PROD-000357,Williams-Sonoma Organized leadingedge framework Decor,Home & Kitchen,Williams-Sonoma,648,310,98191.44,47688.9,153.8351612903226
+PROD-000358,Williams-Sonoma Reverse-engineered interactive function Decor,Home & Kitchen,Williams-Sonoma,719,341,75451.86,42665.59,125.11903225806451
+PROD-000359,Wayfair Re-contextualized regional approach Decor,Home & Kitchen,Wayfair,683,327,269969.41,126656.18,387.32776758409784
+PROD-000360,Williams-Sonoma Seamless user-facing attitude Decor,Home & Kitchen,Williams-Sonoma,729,341,201685.14,102172.67,299.6265982404692
+PROD-000361,Wayfair Virtual demand-driven product Decor,Home & Kitchen,Wayfair,726,346,230679.24000000002,124566.44,360.018612716763
+PROD-000362,IKEA Extended empowering protocol Decor,Home & Kitchen,IKEA,745,351,263327.7,88023.13,250.77814814814815
+PROD-000363,Williams-Sonoma Configurable cohesive encoding Storage,Home & Kitchen,Williams-Sonoma,742,356,186360.72,96549.75,271.2071629213483
+PROD-000364,Williams-Sonoma Enhanced neutral archive Storage,Home & Kitchen,Williams-Sonoma,725,333,75537.75,24088.35,72.33738738738738
+PROD-000365,Walmart Diverse 24hour installation Storage,Home & Kitchen,Walmart,683,318,170053.34,76801.89,241.51537735849055
+PROD-000366,Walmart Organized system-worthy policy Storage,Home & Kitchen,Walmart,662,318,54919.52,28386.11,89.26449685534591
+PROD-000367,Walmart Phased explicit alliance Storage,Home & Kitchen,Walmart,656,326,206731.84,99758.98,306.0091411042945
+PROD-000368,Wayfair Focused executive strategy Storage,Home & Kitchen,Wayfair,724,341,280984.4,98174.67,287.9022580645161
+PROD-000369,Target Horizontal tangible knowledgebase Storage,Home & Kitchen,Target,706,334,281016.24,146856.96,439.691497005988
+PROD-000370,Williams-Sonoma Compatible systemic emulation Storage,Home & Kitchen,Williams-Sonoma,722,352,221596.24000000002,86856.91,246.75258522727273
+PROD-000371,Williams-Sonoma Fundamental zero tolerance utilization Storage,Home & Kitchen,Williams-Sonoma,733,356,241230.30000000002,124455.75,349.5948033707865
+PROD-000372,Pottery Barn Self-enabling optimizing protocol Lighting,Home & Kitchen,Pottery Barn,730,328,161870.2,69275.95,211.20716463414632
+PROD-000373,Williams-Sonoma Exclusive interactive budgetary management Lighting,Home & Kitchen,Williams-Sonoma,666,323,33446.52,11437.64,35.41065015479876
+PROD-000374,Target Quality-focused directional project Lighting,Home & Kitchen,Target,738,347,47866.68,16111.64,46.43123919308357
+PROD-000375,Target Distributed encompassing circuit Lighting,Home & Kitchen,Target,826,384,286555.92,100921.35,262.81601562500003
+PROD-000376,Williams-Sonoma Compatible analyzing concept Lighting,Home & Kitchen,Williams-Sonoma,711,335,161453.88,89675.24,267.68728358208955
+PROD-000377,Williams-Sonoma Integrated radical synergy Lighting,Home & Kitchen,Williams-Sonoma,783,357,124097.67000000001,60136.17,168.44865546218486
+PROD-000378,The North Face Re-contextualized executive intranet Fitness Equipment,Sports & Outdoors,The North Face,738,355,192278.52000000002,103903.09,292.6847605633803
+PROD-000379,Wilson Decentralized maximized solution Fitness Equipment,Sports & Outdoors,Wilson,644,302,225110.2,123197.21,407.93778145695364
+PROD-000380,The North Face Innovative tangible initiative Fitness Equipment,Sports & Outdoors,The North Face,765,343,199045.35,81421.79,237.38131195335276
+PROD-000381,Nike Future-proofed motivating moratorium Fitness Equipment,Sports & Outdoors,Nike,734,343,305872.48000000004,139935.16,407.9742274052478
+PROD-000382,The North Face Proactive leadingedge artificial intelligence Fitness Equipment,Sports & Outdoors,The North Face,732,335,215003.04,104826.31999999999,312.9143880597015
+PROD-000383,Puma Right-sized 6thgeneration Internet solution Fitness Equipment,Sports & Outdoors,Puma,727,349,293548.06,108319.29,310.37045845272206
+PROD-000384,Nike User-centric fresh-thinking portal Fitness Equipment,Sports & Outdoors,Nike,654,324,285771.84,105809.97,326.5739814814815
+PROD-000385,Puma Function-based 4thgeneration array Outdoor Gear,Sports & Outdoors,Puma,708,338,252260.40000000002,92529.47,273.7558284023669
+PROD-000386,Puma Focused systematic orchestration Outdoor Gear,Sports & Outdoors,Puma,753,359,288052.62,155424.47,432.9372423398329
+PROD-000387,Under Armour Reverse-engineered 3rdgeneration task-force Outdoor Gear,Sports & Outdoors,Under Armour,658,284,288947.54,162051.94,570.6054225352112
+PROD-000388,The North Face Synergistic encompassing orchestration Outdoor Gear,Sports & Outdoors,The North Face,669,330,57674.49,27402.33,83.03736363636364
+PROD-000389,Adidas Balanced well-modulated system engine Outdoor Gear,Sports & Outdoors,Adidas,741,345,75107.76,23558.17,68.28455072463768
+PROD-000390,Reebok Enhanced methodical model Outdoor Gear,Sports & Outdoors,Reebok,798,370,212307.9,119548.1,323.10297297297296
+PROD-000391,Adidas Streamlined leadingedge focus group Outdoor Gear,Sports & Outdoors,Adidas,660,313,209906.40000000002,55902.18,178.60121405750797
+PROD-000392,Nike Enterprise-wide optimal Internet solution Outdoor Gear,Sports & Outdoors,Nike,704,326,104480.64,37591.49,115.3113190184049
+PROD-000393,Under Armour Sharable mobile array Outdoor Gear,Sports & Outdoors,Under Armour,656,322,259402.08000000002,135863.03,421.9348757763975
+PROD-000394,Adidas Phased grid-enabled installation Camping,Sports & Outdoors,Adidas,746,366,210446.6,61043.8,166.7863387978142
+PROD-000395,Adidas Managed fresh-thinking secured line Camping,Sports & Outdoors,Adidas,669,317,217759.5,61995.62,195.56977917981072
+PROD-000396,Reebok Customer-focused cohesive groupware Camping,Sports & Outdoors,Reebok,731,344,343701.58,124631.78,362.30168604651163
+PROD-000397,Spalding Open-source system-worthy methodology Camping,Sports & Outdoors,Spalding,729,353,122442.84,45460.56,128.78345609065155
+PROD-000398,Columbia Horizontal stable initiative Camping,Sports & Outdoors,Columbia,786,364,237002.58,108026.6,296.77637362637364
+PROD-000399,Reebok Virtual neutral alliance Camping,Sports & Outdoors,Reebok,662,324,30935.26,9257.53,28.572623456790126
+PROD-000400,Puma Persevering background functionalities Camping,Sports & Outdoors,Puma,696,339,337713.12,115162.81,339.71330383480824
+PROD-000401,Spalding Function-based fresh-thinking budgetary management Camping,Sports & Outdoors,Spalding,738,343,284262.84,164664.22,480.070612244898
+PROD-000402,The North Face Visionary impactful migration Camping,Sports & Outdoors,The North Face,682,321,121880.22,51817.38,161.4248598130841
+PROD-000403,Nike Adaptive stable moratorium Cycling,Sports & Outdoors,Nike,652,319,227919.63999999998,98641.48,309.2209404388715
+PROD-000404,Adidas Persistent incremental application Cycling,Sports & Outdoors,Adidas,720,335,359013.6,153521.12,458.272
+PROD-000405,Columbia Ergonomic multi-state hierarchy Cycling,Sports & Outdoors,Columbia,712,330,73136.64,23297.5,70.59848484848484
+PROD-000406,Adidas Secured web-enabled methodology Cycling,Sports & Outdoors,Adidas,771,354,100129.77,52913.67,149.4736440677966
+PROD-000407,Columbia Self-enabling leadingedge task-force Cycling,Sports & Outdoors,Columbia,670,338,225046.3,109382.58,323.617100591716
+PROD-000408,Wilson Business-focused demand-driven flexibility Cycling,Sports & Outdoors,Wilson,739,318,71498.25,31027.03,97.56927672955975
+PROD-000409,Under Armour Reactive clear-thinking forecast Cycling,Sports & Outdoors,Under Armour,734,339,164687.58,59812.22,176.43722713864307
+PROD-000410,Reebok Organic tangible matrix Cycling,Sports & Outdoors,Reebok,649,298,100757.25,27983.67,93.90493288590604
+PROD-000411,Spalding Decentralized 4thgeneration product Cycling,Sports & Outdoors,Spalding,703,333,316139.1,156279.13,469.3066966966967
+PROD-000412,The North Face Robust disintermediate strategy Cycling,Sports & Outdoors,The North Face,733,337,29166.07,10299.08,30.56106824925816
+PROD-000413,Columbia Diverse fault-tolerant neural-net Cycling,Sports & Outdoors,Columbia,694,344,302285.58,132404.21,384.89595930232554
+PROD-000414,The North Face Advanced neutral installation Cycling,Sports & Outdoors,The North Face,697,334,78844.64,23996.51,71.84583832335329
+PROD-000415,Adidas Cross-group directional budgetary management Cycling,Sports & Outdoors,Adidas,723,327,282830.37,84824.4,259.40183486238533
+PROD-000416,The North Face Persistent bottom-line project Cycling,Sports & Outdoors,The North Face,732,337,236033.4,120236.55,356.78501483679526
+PROD-000417,Columbia Distributed modular structure Yoga,Sports & Outdoors,Columbia,630,311,291312.0,116516.61,374.65147909967845
+PROD-000418,Adidas Implemented multimedia strategy Yoga,Sports & Outdoors,Adidas,708,334,179633.76,96138.16,287.8388023952096
+PROD-000419,Columbia Future-proofed intangible matrices Yoga,Sports & Outdoors,Columbia,776,365,272096.64,118366.72,324.2923835616438
+PROD-000420,The North Face Phased dynamic knowledgebase Yoga,Sports & Outdoors,The North Face,720,357,186127.19999999998,102712.32,287.7095798319328
+PROD-000421,Adidas Reactive client-server info-mediaries Yoga,Sports & Outdoors,Adidas,664,324,101439.28,33678.63,103.94638888888888
+PROD-000422,Under Armour Ergonomic radical migration Yoga,Sports & Outdoors,Under Armour,749,341,180681.27,105086.76,308.1723167155425
+PROD-000423,Spalding User-friendly client-driven architecture Yoga,Sports & Outdoors,Spalding,762,367,161109.66,67043.14,182.67885558583106
+PROD-000424,The North Face Grass-roots zero administration utilization Yoga,Sports & Outdoors,The North Face,604,295,98778.16,34054.95,115.44050847457626
+PROD-000425,Adidas Operative global toolset Yoga,Sports & Outdoors,Adidas,639,304,252679.77,141560.78,465.6604605263158
+PROD-000426,The North Face Profit-focused encompassing ability Yoga,Sports & Outdoors,The North Face,781,355,58450.04,27644.51,77.87185915492957
+PROD-000427,The North Face Horizontal uniform framework Yoga,Sports & Outdoors,The North Face,726,333,67292.94,27719.54,83.24186186186186
+PROD-000428,Wilson Reverse-engineered optimal protocol Yoga,Sports & Outdoors,Wilson,713,325,255731.71,100905.53,310.47855384615383
+PROD-000429,Puma Pre-emptive coherent knowledge user Yoga,Sports & Outdoors,Puma,788,346,141895.16,58286.52,168.45815028901734
+PROD-000430,Spalding Public-key mission-critical hardware Yoga,Sports & Outdoors,Spalding,688,325,131786.4,72265.79,222.3562769230769
+PROD-000431,Reebok Managed neutral task-force Yoga,Sports & Outdoors,Reebok,650,302,138801.0,73243.66,242.52867549668875
+PROD-000432,The North Face Quality-focused homogeneous knowledgebase Running,Sports & Outdoors,The North Face,749,349,264022.5,86039.29,246.53091690544412
+PROD-000433,Adidas Inverse content-based standardization Running,Sports & Outdoors,Adidas,710,325,74230.5,40728.52,125.31852307692307
+PROD-000434,Spalding Front-line object-oriented info-mediaries Running,Sports & Outdoors,Spalding,754,348,271877.32,153297.97,440.511408045977
+PROD-000435,Nike Focused zero-defect installation Running,Sports & Outdoors,Nike,654,326,32497.26,14197.45,43.55046012269939
+PROD-000436,Spalding Balanced foreground synergy Running,Sports & Outdoors,Spalding,724,332,317626.04,104389.81,314.42713855421687
+PROD-000437,Under Armour Phased tertiary workforce Running,Sports & Outdoors,Under Armour,711,347,132416.64,40844.63,117.70786743515849
+PROD-000438,Wilson Multi-tiered human-resource protocol Running,Sports & Outdoors,Wilson,695,324,312777.8,128794.93,397.5152160493827
+PROD-000439,The North Face Streamlined coherent methodology Running,Sports & Outdoors,The North Face,715,323,171492.75,58461.31,180.9947678018576
+PROD-000440,Spalding Automated clear-thinking middleware Running,Sports & Outdoors,Spalding,757,356,281990.07,150737.7,423.42050561797754
+PROD-000441,Puma Reverse-engineered full-range attitude Running,Sports & Outdoors,Puma,723,349,102933.51000000001,53881.07,154.3870200573066
+PROD-000442,Puma Organic bandwidth-monitored moderator Running,Sports & Outdoors,Puma,708,337,91424.04,25484.45,75.62151335311573
+PROD-000443,Reebok Persevering 24/7 success Running,Sports & Outdoors,Reebok,672,316,74934.72,25788.88,81.61037974683545
+PROD-000444,Patagonia Digitized incremental projection Running,Sports & Outdoors,Patagonia,714,328,186810.96,73567.51,224.29118902439023
+PROD-000445,Under Armour Distributed asynchronous leverage Running,Sports & Outdoors,Under Armour,733,342,97870.16,24538.64,71.75040935672514
+PROD-000446,Puma Fundamental global process improvement Team Sports,Sports & Outdoors,Puma,630,309,210357.0,106321.57,344.0827508090615
+PROD-000447,Reebok Team-oriented hybrid projection Team Sports,Sports & Outdoors,Reebok,782,371,46364.78,26410.48,71.18727762803235
+PROD-000448,Nike Configurable full-range service-desk Team Sports,Sports & Outdoors,Nike,670,324,163982.5,52603.56,162.35666666666665
+PROD-000449,Adidas Public-key homogeneous functionalities Team Sports,Sports & Outdoors,Adidas,846,393,319610.34,139106.56,353.9607124681934
+PROD-000450,The North Face Self-enabling transitional task-force Team Sports,Sports & Outdoors,The North Face,737,341,148313.88,38527.5,112.98387096774194
+PROD-000451,Adidas Pre-emptive needs-based alliance Team Sports,Sports & Outdoors,Adidas,658,328,287440.72,119690.74,364.91079268292685
+PROD-000452,Wilson Secured asymmetric encoding Team Sports,Sports & Outdoors,Wilson,750,348,277125.0,116223.49,333.9755459770115
+PROD-000453,Wilson Self-enabling systemic forecast Team Sports,Sports & Outdoors,Wilson,702,331,317886.66,142517.53,430.5665558912387
+PROD-000454,Reebok Focused value-added array Team Sports,Sports & Outdoors,Reebok,715,345,219054.55,62558.82,181.32991304347826
+PROD-000455,Columbia Optional bandwidth-monitored task-force Team Sports,Sports & Outdoors,Columbia,678,341,217576.98,84855.4,248.84281524926683
+PROD-000456,Patagonia Sharable tertiary attitude Team Sports,Sports & Outdoors,Patagonia,726,337,63517.74,21880.46,64.92718100890207
+PROD-000457,Puma Organic composite solution Swimming,Sports & Outdoors,Puma,686,336,75700.09999999999,36482.39,108.57854166666667
+PROD-000458,Columbia Innovative 4thgeneration analyzer Swimming,Sports & Outdoors,Columbia,734,354,81444.64,27216.57,76.88296610169492
+PROD-000459,Wilson Inverse analyzing frame Swimming,Sports & Outdoors,Wilson,689,334,98134.27,31191.97,93.38913173652695
+PROD-000460,The North Face Multi-channeled holistic Internet solution Swimming,Sports & Outdoors,The North Face,733,347,197572.82,88046.91,253.73749279538904
+PROD-000461,Puma Digitized dynamic moderator Swimming,Sports & Outdoors,Puma,799,370,82033.33,34588.09,93.48132432432432
+PROD-000462,Nike Open-source non-volatile software Swimming,Sports & Outdoors,Nike,684,324,100965.24,35496.67,109.55762345679011
+PROD-000463,Columbia Enterprise-wide composite conglomeration Swimming,Sports & Outdoors,Columbia,725,347,284490.0,155757.23,448.86809798270895
+PROD-000464,The North Face Configurable reciprocal implementation Swimming,Sports & Outdoors,The North Face,686,336,165017.30000000002,80764.58,240.37077380952383
+PROD-000465,Nike Secured systemic encoding Swimming,Sports & Outdoors,Nike,802,372,84723.28,35889.91,96.47825268817205
+PROD-000466,Reebok Proactive optimal circuit Swimming,Sports & Outdoors,Reebok,656,325,274680.32,117939.75,362.89153846153846
+PROD-000467,Columbia Focused maximized productivity Swimming,Sports & Outdoors,Columbia,696,324,221425.44,78486.38,242.24191358024692
+PROD-000468,Puma Function-based logistical extranet Swimming,Sports & Outdoors,Puma,642,319,67166.04000000001,37541.51,117.68498432601882
+PROD-000469,Simon & Schuster Synchronized 24/7 website Fiction,Books & Media,Simon & Schuster,706,339,39867.82,20968.68,61.854513274336284
+PROD-000470,Hachette Persistent executive service-desk Fiction,Books & Media,Hachette,696,349,46214.4,22303.65,63.90730659025788
+PROD-000471,Hachette Quality-focused cohesive archive Fiction,Books & Media,Hachette,740,349,18063.4,10801.63,30.950229226361028
+PROD-000472,Pearson Organic grid-enabled parallelism Fiction,Books & Media,Pearson,658,310,9212.0,4665.61,15.050354838709676
+PROD-000473,Random House Innovative scalable interface Fiction,Books & Media,Random House,642,310,8185.5,4926.36,15.891483870967742
+PROD-000474,Audible Team-oriented eco-centric knowledgebase Fiction,Books & Media,Audible,680,326,51251.600000000006,29054.25,89.12346625766871
+PROD-000475,McGraw-Hill Innovative dedicated info-mediaries Fiction,Books & Media,McGraw-Hill,704,338,9088.64,5266.46,15.581242603550296
+PROD-000476,Audible Polarized bi-directional encoding Fiction,Books & Media,Audible,713,331,55300.28,33484.86,101.16271903323263
+PROD-000477,HarperCollins Multi-tiered object-oriented help-desk Fiction,Books & Media,HarperCollins,656,323,35909.44,15763.07,48.80207430340557
+PROD-000478,McGraw-Hill Re-engineered explicit standardization Fiction,Books & Media,McGraw-Hill,729,347,33599.61,17632.85,50.81512968299712
+PROD-000479,Audible Implemented 3rdgeneration protocol Fiction,Books & Media,Audible,746,360,14755.880000000001,9238.61,25.662805555555558
+PROD-000480,Penguin Object-based even-keeled access Fiction,Books & Media,Penguin,684,331,40581.72,23800.97,71.90625377643505
+PROD-000481,Hachette Re-contextualized systemic time-frame Fiction,Books & Media,Hachette,650,319,50628.5,31268.76,98.02119122257052
+PROD-000482,Pearson User-friendly actuating portal Fiction,Books & Media,Pearson,731,341,30014.86,12854.69,37.697038123167154
+PROD-000483,Pearson User-friendly modular forecast Fiction,Books & Media,Pearson,792,356,46316.159999999996,20915.72,58.75202247191012
+PROD-000484,Scholastic Vision-oriented discrete portal Non-Fiction,Books & Media,Scholastic,692,317,40018.36,21202.82,66.88586750788643
+PROD-000485,Audible Multi-channeled directional productivity Non-Fiction,Books & Media,Audible,685,341,48511.7,25549.03,74.92384164222874
+PROD-000486,McGraw-Hill Ergonomic regional extranet Non-Fiction,Books & Media,McGraw-Hill,774,358,58181.58,29053.96,81.156312849162
+PROD-000487,Scholastic Synergistic web-enabled success Non-Fiction,Books & Media,Scholastic,698,334,17519.8,8317.0,24.90119760479042
+PROD-000488,Random House Visionary stable software Non-Fiction,Books & Media,Random House,738,349,41025.420000000006,25195.94,72.19467048710601
+PROD-000489,McGraw-Hill Devolved responsive attitude Non-Fiction,Books & Media,McGraw-Hill,684,302,54692.64,32123.23,106.36831125827814
+PROD-000490,McGraw-Hill Self-enabling secondary analyzer Non-Fiction,Books & Media,McGraw-Hill,697,317,26820.559999999998,11699.63,36.90735015772871
+PROD-000491,Scholastic Integrated zero tolerance intranet Non-Fiction,Books & Media,Scholastic,671,315,33341.99,16253.8,51.59936507936508
+PROD-000492,McGraw-Hill Automated optimal hierarchy Non-Fiction,Books & Media,McGraw-Hill,715,350,27377.35,14911.32,42.60377142857143
+PROD-000493,Simon & Schuster Upgradable clear-thinking array Non-Fiction,Books & Media,Simon & Schuster,709,340,47183.95,22095.27,64.98608823529412
+PROD-000494,Penguin Implemented fresh-thinking synergy Non-Fiction,Books & Media,Penguin,717,338,29031.33,13819.31,40.8855325443787
+PROD-000495,Audible Operative context-sensitive customer loyalty Non-Fiction,Books & Media,Audible,704,350,33869.44,21026.03,60.074371428571425
+PROD-000496,HarperCollins De-engineered zero tolerance moratorium Academic,Books & Media,HarperCollins,749,349,26701.85,14836.32,42.51094555873925
+PROD-000497,HarperCollins Multi-lateral multi-tasking middleware Academic,Books & Media,HarperCollins,691,328,25705.2,13232.69,40.34356707317073
+PROD-000498,Pearson Future-proofed composite extranet Academic,Books & Media,Pearson,680,332,24568.4,14012.43,42.206114457831326
+PROD-000499,Simon & Schuster Polarized explicit synergy Academic,Books & Media,Simon & Schuster,694,326,36254.56,17396.56,53.363680981595095
+PROD-000500,Simon & Schuster Mandatory bifurcated Local Area Network Academic,Books & Media,Simon & Schuster,656,307,27840.64,15176.94,49.43628664495114
+PROD-000501,Pearson Compatible client-server system engine Academic,Books & Media,Pearson,786,367,36423.240000000005,18882.45,51.4508174386921
+PROD-000502,Scholastic Face-to-face systematic success Academic,Books & Media,Scholastic,604,288,20469.56,11026.1,38.285069444444446
+PROD-000503,McGraw-Hill Synergistic hybrid website Academic,Books & Media,McGraw-Hill,777,374,39323.97,20271.07,54.20072192513369
+PROD-000504,Scholastic Realigned high-level array Academic,Books & Media,Scholastic,659,319,41872.86,18634.63,58.41576802507837
+PROD-000505,McGraw-Hill Object-based 24/7 firmware Academic,Books & Media,McGraw-Hill,701,344,53899.89,32818.090000000004,95.40142441860466
+PROD-000506,Pearson Public-key bottom-line knowledgebase Children's Books,Books & Media,Pearson,684,324,7202.5199999999995,3638.97,11.231388888888889
+PROD-000507,Penguin Multi-layered systematic synergy Children's Books,Books & Media,Penguin,679,303,18360.16,7380.23,24.357194719471945
+PROD-000508,HarperCollins Synergistic empowering paradigm Children's Books,Books & Media,HarperCollins,712,344,53691.92,29441.83,85.58671511627908
+PROD-000509,Hachette Multi-tiered scalable hub Children's Books,Books & Media,Hachette,667,316,29354.67,17087.76,54.07518987341771
+PROD-000510,HarperCollins Customer-focused systematic emulation Children's Books,Books & Media,HarperCollins,687,322,21647.370000000003,9747.3,30.27111801242236
+PROD-000511,HarperCollins Phased 4thgeneration process improvement Children's Books,Books & Media,HarperCollins,752,346,23906.079999999998,11828.19,34.18552023121387
+PROD-000512,Pearson Realigned fresh-thinking pricing structure Children's Books,Books & Media,Pearson,755,362,21955.399999999998,12242.1,33.81795580110497
+PROD-000513,Hachette Face-to-face secondary architecture Children's Books,Books & Media,Hachette,676,323,15331.68,7200.93,22.29390092879257
+PROD-000514,Penguin Sharable maximized standardization Children's Books,Books & Media,Penguin,775,361,36239.0,17648.08,48.886648199445986
+PROD-000515,Penguin Innovative solution-oriented installation Children's Books,Books & Media,Penguin,728,350,36188.88,20855.51,59.58717142857142
+PROD-000516,Scholastic Customizable client-driven analyzer Children's Books,Books & Media,Scholastic,692,326,30344.2,14026.16,43.025030674846626
+PROD-000517,McGraw-Hill Automated exuding methodology Children's Books,Books & Media,McGraw-Hill,769,358,10027.76,4905.51,13.702541899441341
+PROD-000518,Random House Customizable bandwidth-monitored encoding Children's Books,Books & Media,Random House,722,335,37623.42,17117.93,51.09829850746269
+PROD-000519,McGraw-Hill Public-key client-driven info-mediaries Children's Books,Books & Media,McGraw-Hill,669,306,17373.93,10219.7,33.39771241830066
+PROD-000520,Simon & Schuster Persevering holistic secured line Children's Books,Books & Media,Simon & Schuster,711,331,27565.47,12323.86,37.232205438066465
+PROD-000521,HarperCollins User-friendly tangible moratorium Comics,Books & Media,HarperCollins,695,330,24144.3,13473.9,40.83
+PROD-000522,McGraw-Hill Operative optimizing synergy Comics,Books & Media,McGraw-Hill,735,350,21491.399999999998,9853.93,28.154085714285713
+PROD-000523,Random House Upgradable coherent instruction set Comics,Books & Media,Random House,735,334,41696.549999999996,25136.78,75.25982035928143
+PROD-000524,Simon & Schuster Streamlined bandwidth-monitored matrix Comics,Books & Media,Simon & Schuster,732,350,30465.84,15786.88,45.105371428571424
+PROD-000525,Pearson Seamless incremental focus group Comics,Books & Media,Pearson,785,382,48340.3,21204.89,55.5101832460733
+PROD-000526,Pearson Automated system-worthy hub Comics,Books & Media,Pearson,799,362,13343.3,8017.64,22.14817679558011
+PROD-000527,Penguin Extended leadingedge intranet Comics,Books & Media,Penguin,787,350,41317.5,20792.14,59.40611428571428
+PROD-000528,Audible Front-line high-level attitude Audiobooks,Books & Media,Audible,773,334,28879.28,14296.26,42.80317365269461
+PROD-000529,HarperCollins Synergized holistic moratorium Audiobooks,Books & Media,HarperCollins,746,359,59038.44,34790.4,96.9091922005571
+PROD-000530,Scholastic Stand-alone heuristic approach Audiobooks,Books & Media,Scholastic,749,341,28686.7,15436.6,45.26862170087977
+PROD-000531,Hachette Object-based even-keeled core Audiobooks,Books & Media,Hachette,721,338,42156.87,16806.7,49.72396449704142
+PROD-000532,Hachette Decentralized logistical array Audiobooks,Books & Media,Hachette,716,334,12379.64,5896.09,17.65296407185629
+PROD-000533,Hachette Switchable didactic project Audiobooks,Books & Media,Hachette,638,316,18623.22,11404.7,36.09082278481013
+PROD-000534,McGraw-Hill Sharable radical adapter Audiobooks,Books & Media,McGraw-Hill,765,347,55531.35,32315.82,93.12916426512969
+PROD-000535,HarperCollins Business-focused zero tolerance groupware Audiobooks,Books & Media,HarperCollins,737,343,19066.19,10561.03,30.790174927113704
+PROD-000536,McGraw-Hill Fully-configurable clear-thinking toolset Audiobooks,Books & Media,McGraw-Hill,677,314,31365.41,18798.63,59.868248407643314
+PROD-000537,Hachette Re-contextualized demand-driven architecture Music,Books & Media,Hachette,694,336,18293.84,9543.02,28.40184523809524
+PROD-000538,Penguin Virtual neutral database Music,Books & Media,Penguin,792,379,44003.520000000004,22598.09,59.6255672823219
+PROD-000539,Hachette Reverse-engineered didactic emulation Music,Books & Media,Hachette,742,350,24716.02,12356.28,35.30365714285715
+PROD-000540,Penguin Managed zero-defect circuit Music,Books & Media,Penguin,694,339,39093.02,19996.4,58.98643067846608
+PROD-000541,Pearson Right-sized 24hour focus group Music,Books & Media,Pearson,693,321,29494.08,17900.45,55.764641744548285
+PROD-000542,Random House Digitized clear-thinking moratorium Music,Books & Media,Random House,615,303,47373.45,27210.73,89.80438943894389
+PROD-000543,Scholastic Function-based context-sensitive budgetary management Music,Books & Media,Scholastic,776,353,18678.32,9424.27,26.697648725212467
+PROD-000544,Random House Switchable 4thgeneration capacity Music,Books & Media,Random House,749,356,31105.97,14699.86,41.29174157303371
+PROD-000545,Hachette Advanced heuristic utilization Music,Books & Media,Hachette,693,326,39182.22,17660.18,54.17233128834356
+PROD-000546,HarperCollins Front-line optimizing Graphic Interface Music,Books & Media,HarperCollins,674,309,17807.08,9440.14,30.55061488673139
+PROD-000547,Pearson Ameliorated context-sensitive firmware Movies,Books & Media,Pearson,778,354,61827.66,26590.23,75.11364406779661
+PROD-000548,Scholastic Business-focused clear-thinking support Movies,Books & Media,Scholastic,678,335,46741.32,23646.73,70.58725373134328
+PROD-000549,HarperCollins Operative multi-tasking budgetary management Movies,Books & Media,HarperCollins,844,381,13706.56,6224.93,16.338398950131236
+PROD-000550,Scholastic User-friendly asymmetric leverage Movies,Books & Media,Scholastic,740,340,50186.799999999996,21886.34,64.37158823529411
+PROD-000551,Simon & Schuster Organized zero-defect hierarchy Movies,Books & Media,Simon & Schuster,708,333,8871.24,4758.54,14.289909909909909
+PROD-000552,Simon & Schuster Profound optimizing benchmark Movies,Books & Media,Simon & Schuster,757,356,26653.97,16162.73,45.40092696629213
+PROD-000553,Scholastic Organized motivating definition Movies,Books & Media,Scholastic,689,334,33602.53,19143.97,57.3172754491018
+PROD-000554,Audible Seamless 6thgeneration superstructure Movies,Books & Media,Audible,722,333,29818.6,14904.539999999999,44.758378378378374
+PROD-000555,Simon & Schuster Switchable multi-state framework Movies,Books & Media,Simon & Schuster,791,360,58818.76,30631.61,85.08780555555556
+PROD-000556,Melissa & Doug Persevering secondary algorithm Action Figures,Toys & Games,Melissa & Doug,755,349,130245.04999999999,73547.32,210.7373065902579
+PROD-000557,Hasbro Centralized mission-critical initiative Action Figures,Toys & Games,Hasbro,697,331,25461.41,11113.59,33.575800604229606
+PROD-000558,Hasbro Optimized systemic benchmark Action Figures,Toys & Games,Hasbro,756,349,134137.08,55550.36,159.1700859598854
+PROD-000559,Fisher-Price Pre-emptive transitional intranet Action Figures,Toys & Games,Fisher-Price,747,336,120386.52,63929.32,190.26583333333332
+PROD-000560,Nerf Compatible attitude-oriented Graphic Interface Action Figures,Toys & Games,Nerf,709,344,63490.95,35941.05,104.47979651162791
+PROD-000561,Hasbro Robust client-server architecture Action Figures,Toys & Games,Hasbro,631,331,49867.93,18829.87,56.8878247734139
+PROD-000562,Lego De-engineered even-keeled process improvement Action Figures,Toys & Games,Lego,697,330,116510.52,68007.28,206.08266666666665
+PROD-000563,Nerf Sharable optimal neural-net Action Figures,Toys & Games,Nerf,691,336,128325.61,62617.2,186.36071428571427
+PROD-000564,Bandai Universal fresh-thinking implementation Action Figures,Toys & Games,Bandai,766,361,119871.34000000001,66637.38,184.59108033240997
+PROD-000565,Melissa & Doug Right-sized multi-tasking frame Action Figures,Toys & Games,Melissa & Doug,760,363,67450.0,38896.03,107.15159779614325
+PROD-000566,Spin Master Persevering motivating portal Action Figures,Toys & Games,Spin Master,721,334,19906.81,12026.43,36.0072754491018
+PROD-000567,Hasbro Optional bandwidth-monitored utilization Action Figures,Toys & Games,Hasbro,756,334,146044.08,66120.23,197.9647604790419
+PROD-000568,Lego Total bifurcated projection Board Games,Toys & Games,Lego,681,319,64701.81,36459.14,114.29197492163009
+PROD-000569,Nerf Streamlined zero administration neural-net Board Games,Toys & Games,Nerf,803,372,77336.93000000001,45862.18,123.28543010752688
+PROD-000570,Barbie Up-sized didactic Internet solution Board Games,Toys & Games,Barbie,761,354,41832.17,19329.93,54.604322033898306
+PROD-000571,Hasbro Organized discrete installation Board Games,Toys & Games,Hasbro,667,327,28761.04,17080.55,52.234097859327214
+PROD-000572,Melissa & Doug Mandatory logistical initiative Board Games,Toys & Games,Melissa & Doug,698,336,69841.88,42033.84,125.10071428571428
+PROD-000573,Hasbro Operative upward-trending attitude Board Games,Toys & Games,Hasbro,764,361,19627.16,8668.03,24.01116343490305
+PROD-000574,Lego Intuitive interactive functionalities Board Games,Toys & Games,Lego,764,349,45267.0,26849.58,76.93289398280803
+PROD-000575,Melissa & Doug Synchronized eco-centric hub Board Games,Toys & Games,Melissa & Doug,715,332,50843.65,29533.63,88.95671686746988
+PROD-000576,Hasbro Distributed systemic leverage Board Games,Toys & Games,Hasbro,775,355,20553.0,9800.23,27.606281690140843
+PROD-000577,Fisher-Price Cloned background artificial intelligence Board Games,Toys & Games,Fisher-Price,737,348,122032.46,56394.56,162.0533333333333
+PROD-000578,Mattel Cross-group intermediate attitude Board Games,Toys & Games,Mattel,714,352,93119.87999999999,44447.47,126.2712215909091
+PROD-000579,Bandai User-friendly user-facing hub Board Games,Toys & Games,Bandai,645,320,25271.1,9988.18,31.2130625
+PROD-000580,Nerf De-engineered next generation approach Educational Toys,Toys & Games,Nerf,767,366,39124.67,20421.41,55.796202185792346
+PROD-000581,Barbie Reverse-engineered next generation open architecture Educational Toys,Toys & Games,Barbie,700,336,117663.0,51489.07,153.24127976190476
+PROD-000582,Spin Master Managed static capability Educational Toys,Toys & Games,Spin Master,729,351,12422.16,6286.89,17.911367521367524
+PROD-000583,Bandai Open-source heuristic secured line Educational Toys,Toys & Games,Bandai,742,358,13764.1,7450.2,20.810614525139663
+PROD-000584,Spin Master Versatile interactive success Educational Toys,Toys & Games,Spin Master,802,389,32376.739999999998,15663.18,40.2652442159383
+PROD-000585,Lego Business-focused executive policy Educational Toys,Toys & Games,Lego,775,358,13361.0,7125.66,19.904078212290504
+PROD-000586,Fisher-Price Integrated heuristic benchmark Educational Toys,Toys & Games,Fisher-Price,787,376,128501.36,49803.76,132.4568085106383
+PROD-000587,Bandai Re-engineered motivating data-warehouse Educational Toys,Toys & Games,Bandai,718,339,25345.399999999998,11925.62,35.178820058997054
+PROD-000588,Ravensburger Distributed stable matrices Educational Toys,Toys & Games,Ravensburger,773,346,132345.33000000002,78496.23,226.86771676300577
+PROD-000589,Ravensburger Face-to-face bi-directional hardware Educational Toys,Toys & Games,Ravensburger,735,353,31428.6,16505.01,46.756402266288944
+PROD-000590,Ravensburger Realigned holistic budgetary management Educational Toys,Toys & Games,Ravensburger,652,335,67195.12,34850.53,104.0314328358209
+PROD-000591,Spin Master Virtual even-keeled orchestration Educational Toys,Toys & Games,Spin Master,682,317,68200.0,28250.63,89.11870662460568
+PROD-000592,Fisher-Price Face-to-face interactive open architecture Educational Toys,Toys & Games,Fisher-Price,728,353,139586.72,59132.01,167.512776203966
+PROD-000593,Bandai Visionary regional pricing structure Educational Toys,Toys & Games,Bandai,778,361,110709.40000000001,55036.1,152.4545706371191
+PROD-000594,Fisher-Price Synergistic secondary open architecture Educational Toys,Toys & Games,Fisher-Price,689,324,117515.84,69511.71,214.54231481481483
+PROD-000595,Lego Assimilated real-time protocol Dolls,Toys & Games,Lego,706,327,70861.22,30946.66,94.63810397553517
+PROD-000596,Fisher-Price Team-oriented encompassing algorithm Dolls,Toys & Games,Fisher-Price,767,342,138520.19999999998,61977.28,181.2201169590643
+PROD-000597,Barbie Enterprise-wide encompassing standardization Dolls,Toys & Games,Barbie,825,379,22547.25,10700.48,28.233456464379945
+PROD-000598,Hasbro Virtual fault-tolerant Graphical User Interface Dolls,Toys & Games,Hasbro,722,332,109332.46,53947.85,162.49352409638553
+PROD-000599,Fisher-Price Monitored 24hour contingency Dolls,Toys & Games,Fisher-Price,686,321,15579.06,9194.92,28.64461059190031
+PROD-000600,Fisher-Price Digitized non-volatile protocol Remote Control,Toys & Games,Fisher-Price,750,335,21255.0,12786.33,38.16814925373134
+PROD-000601,Mattel Open-architected asymmetric circuit Remote Control,Toys & Games,Mattel,783,355,150296.85,65573.07,184.71287323943665
+PROD-000602,Lego User-centric scalable algorithm Remote Control,Toys & Games,Lego,688,323,48063.68,25684.8,79.51950464396285
+PROD-000603,Mattel Cross-group value-added moderator Remote Control,Toys & Games,Mattel,610,307,83783.5,47906.98,156.04879478827363
+PROD-000604,Nerf Extended homogeneous instruction set Remote Control,Toys & Games,Nerf,708,326,23505.600000000002,10885.14,33.39
+PROD-000605,Mattel Persevering global complexity Remote Control,Toys & Games,Mattel,715,350,45781.45,27864.55,79.613
+PROD-000606,Lego Multi-layered fault-tolerant success Remote Control,Toys & Games,Lego,818,368,158732.9,88055.62,239.2815760869565
+PROD-000607,Lego Inverse zero-defect open system Remote Control,Toys & Games,Lego,749,348,97789.44,50312.26,144.57545977011495
+PROD-000608,Barbie Right-sized attitude-oriented application Puzzles,Toys & Games,Barbie,698,330,26147.08,12450.9,37.73
+PROD-000609,Lego Distributed cohesive system engine Puzzles,Toys & Games,Lego,780,358,104613.6,50926.48,142.2527374301676
+PROD-000610,Melissa & Doug Secured actuating service-desk Puzzles,Toys & Games,Melissa & Doug,727,325,141161.59,57101.97,175.69836923076923
+PROD-000611,Mattel Configurable encompassing intranet Puzzles,Toys & Games,Mattel,754,352,148002.66,67238.15,191.01747159090908
+PROD-000612,Nerf Switchable interactive matrix Puzzles,Toys & Games,Nerf,744,345,114122.15999999999,47774.06,138.47553623188406
+PROD-000613,Hasbro Robust leadingedge instruction set Puzzles,Toys & Games,Hasbro,720,338,27864.0,14796.47,43.77653846153846
+PROD-000614,Bandai Future-proofed didactic system engine Puzzles,Toys & Games,Bandai,704,336,39811.2,21334.1,63.494345238095235
+PROD-000615,Nerf Profound bifurcated hardware Puzzles,Toys & Games,Nerf,706,341,67980.74,31681.23,92.90683284457478
+PROD-000616,Bandai Optional bifurcated forecast Arts & Crafts,Toys & Games,Bandai,740,350,44052.2,25678.97,73.36848571428571
+PROD-000617,Fisher-Price Synergistic systematic parallelism Arts & Crafts,Toys & Games,Fisher-Price,774,364,138607.92,61060.12,167.74758241758244
+PROD-000618,Lego Pre-emptive multi-tasking secured line Arts & Crafts,Toys & Games,Lego,739,342,122637.05,49897.02,145.89771929824562
+PROD-000619,Melissa & Doug Integrated 6thgeneration definition Arts & Crafts,Toys & Games,Melissa & Doug,684,331,126540.0,69076.35,208.68987915407857
+PROD-000620,Lego Object-based radical approach Arts & Crafts,Toys & Games,Lego,737,354,73847.40000000001,29290.53,82.74161016949152
+PROD-000621,Bandai Adaptive demand-driven framework Arts & Crafts,Toys & Games,Bandai,673,330,106764.72,50107.2,151.84
+PROD-000622,Hasbro Extended zero administration challenge Outdoor Toys,Toys & Games,Hasbro,721,347,83513.43,29513.42,85.05308357348703
+PROD-000623,Bandai Virtual eco-centric frame Outdoor Toys,Toys & Games,Bandai,759,351,17449.41,9957.55,28.369088319088316
+PROD-000624,Hasbro Inverse bottom-line ability Outdoor Toys,Toys & Games,Hasbro,743,368,110937.33,46335.02,125.9103804347826
+PROD-000625,Barbie Proactive value-added Internet solution Outdoor Toys,Toys & Games,Barbie,576,294,62542.08,25213.11,85.7588775510204
+PROD-000626,Hasbro Enhanced clear-thinking implementation Outdoor Toys,Toys & Games,Hasbro,673,329,77603.63,35858.75,108.99316109422493
+PROD-000627,Melissa & Doug Public-key tertiary emulation Outdoor Toys,Toys & Games,Melissa & Doug,707,342,49525.35,23593.48,68.986783625731
+PROD-000628,Barbie Profit-focused next generation secured line Outdoor Toys,Toys & Games,Barbie,622,312,109820.31999999999,49904.9,159.95160256410256
+PROD-000629,Ravensburger Multi-channeled asynchronous infrastructure Outdoor Toys,Toys & Games,Ravensburger,731,352,32609.91,16729.33,47.526505681818186
+PROD-000630,Barbie User-centric 6thgeneration Internet solution Outdoor Toys,Toys & Games,Barbie,689,340,41780.96,17573.06,51.6854705882353
+PROD-000631,Melissa & Doug Ameliorated logistical archive Outdoor Toys,Toys & Games,Melissa & Doug,684,330,22811.4,12187.55,36.931969696969695
+PROD-000632,Nerf Intuitive object-oriented interface Outdoor Toys,Toys & Games,Nerf,709,331,37399.75,17715.34,53.52066465256797
+PROD-000633,Bridgestone Re-engineered impactful strategy Car Accessories,Automotive,Bridgestone,657,303,247866.38999999998,109208.63,360.42452145214526
+PROD-000634,Thule Sharable intangible frame Car Accessories,Automotive,Thule,756,338,358797.60000000003,121540.61,359.58760355029585
+PROD-000635,Castrol Customizable impactful adapter Car Accessories,Automotive,Castrol,741,337,341875.17,169029.06,501.5699109792285
+PROD-000636,Bosch Inverse composite website Car Accessories,Automotive,Bosch,811,358,111463.84,23837.63,66.58555865921788
+PROD-000637,Mobil Secured logistical solution Car Accessories,Automotive,Mobil,809,385,169582.58,81028.11,210.46262337662338
+PROD-000638,Castrol Multi-lateral background Internet solution Car Accessories,Automotive,Castrol,776,367,410084.96,89162.35,242.9491825613079
+PROD-000639,Bridgestone Customer-focused dynamic Internet solution Car Accessories,Automotive,Bridgestone,715,341,200335.85,60099.0,176.2434017595308
+PROD-000640,Castrol Reverse-engineered impactful moderator Car Accessories,Automotive,Castrol,805,389,292995.85000000003,119977.42,308.4252442159383
+PROD-000641,Continental Configurable hybrid function Car Accessories,Automotive,Continental,761,355,322253.06,167417.0,471.59718309859153
+PROD-000642,Goodyear User-friendly global definition Car Accessories,Automotive,Goodyear,681,326,154035.39,45394.94,139.24828220858896
+PROD-000643,Bridgestone Managed zero-defect concept Car Accessories,Automotive,Bridgestone,754,345,272314.64,103521.94,300.06359420289857
+PROD-000644,Bridgestone Compatible multimedia productivity Maintenance,Automotive,Bridgestone,675,336,38893.5,13699.5,40.77232142857143
+PROD-000645,Bridgestone Customizable multi-tasking migration Maintenance,Automotive,Bridgestone,757,355,261301.26,93814.67,264.26667605633804
+PROD-000646,Goodyear Ergonomic zero-defect hardware Maintenance,Automotive,Goodyear,695,335,338388.55,146163.49,436.3089253731343
+PROD-000647,Michelin Monitored upward-trending project Maintenance,Automotive,Michelin,659,317,203624.41,101455.23,320.04804416403783
+PROD-000648,Thule Digitized disintermediate benchmark Maintenance,Automotive,Thule,752,340,160822.72,42953.33,126.33332352941177
+PROD-000649,Mobil Digitized eco-centric customer loyalty Maintenance,Automotive,Mobil,682,331,325586.8,116351.69,351.5156797583082
+PROD-000650,Mobil Enhanced real-time collaboration Tires,Automotive,Mobil,709,328,74813.68,33159.62,101.0964024390244
+PROD-000651,Michelin Virtual well-modulated projection Tires,Automotive,Michelin,647,317,46189.33,21185.78,66.83211356466876
+PROD-000652,Yakima Compatible context-sensitive throughput Tires,Automotive,Yakima,682,330,304635.76,63492.14,192.40042424242424
+PROD-000653,Mobil Self-enabling modular Local Area Network Tires,Automotive,Mobil,736,339,289019.83999999997,112145.53,330.8127728613569
+PROD-000654,Yakima Versatile non-volatile task-force Tires,Automotive,Yakima,707,327,336305.76,160139.94,489.7245871559633
+PROD-000655,Bosch Reduced local software Tires,Automotive,Bosch,610,293,309324.89999999997,128124.0,437.28327645051195
+PROD-000656,Valvoline Re-contextualized secondary productivity Tires,Automotive,Valvoline,677,323,244336.07,110268.35,341.38808049535606
+PROD-000657,Bridgestone Secured fresh-thinking product Tires,Automotive,Bridgestone,663,312,141895.26,74699.64,239.42192307692306
+PROD-000658,Thule Intuitive coherent intranet Tires,Automotive,Thule,686,325,344632.68,146509.51,450.79849230769236
+PROD-000659,Bridgestone Cloned methodical intranet Tires,Automotive,Bridgestone,781,361,150936.06,34182.02,94.68703601108032
+PROD-000660,Yakima Self-enabling exuding utilization Tires,Automotive,Yakima,742,357,199746.4,52492.83,147.03873949579832
+PROD-000661,Thule Grass-roots optimizing approach Batteries,Automotive,Thule,781,378,99921.14,26720.65,70.68955026455026
+PROD-000662,Yakima Multi-channeled motivating archive Batteries,Automotive,Yakima,724,354,217286.88,106622.58,301.19372881355935
+PROD-000663,Michelin Integrated maximized knowledge user Batteries,Automotive,Michelin,624,304,275932.8,103738.99,341.24667763157896
+PROD-000664,Continental Automated analyzing hub Batteries,Automotive,Continental,649,321,287578.39,84068.89,261.8968535825545
+PROD-000665,Goodyear Horizontal asynchronous project Batteries,Automotive,Goodyear,685,324,256142.05,122057.1,376.71944444444443
+PROD-000666,Continental Cross-group reciprocal policy Batteries,Automotive,Continental,727,352,291548.81,73705.55,209.39076704545457
+PROD-000667,Mobil Profit-focused human-resource Local Area Network Batteries,Automotive,Mobil,721,344,38277.89,16721.19,48.608110465116276
+PROD-000668,Goodyear Reduced neutral utilization Batteries,Automotive,Goodyear,721,357,117703.25,27781.01,77.81795518207282
+PROD-000669,Yakima User-centric 6thgeneration knowledge user Batteries,Automotive,Yakima,682,324,121211.86,35720.76,110.24925925925926
+PROD-000670,Bridgestone Re-engineered solution-oriented core Batteries,Automotive,Bridgestone,657,314,309111.93,156534.88,498.5187261146497
+PROD-000671,Michelin Inverse real-time leverage Batteries,Automotive,Michelin,673,326,26583.5,13319.06,40.856012269938645
+PROD-000672,Bosch Profit-focused coherent approach Car Electronics,Automotive,Bosch,730,353,73554.8,25819.4,73.14277620396601
+PROD-000673,Castrol Organized bi-directional workforce Car Electronics,Automotive,Castrol,721,347,159672.66,38890.25,112.0756484149856
+PROD-000674,Mobil Mandatory transitional artificial intelligence Car Electronics,Automotive,Mobil,733,359,296865.0,69480.65,193.53941504178272
+PROD-000675,Mobil Profit-focused secondary conglomeration Car Electronics,Automotive,Mobil,733,330,412942.88,201746.56,611.3532121212121
+PROD-000676,Mobil Balanced dynamic strategy Car Electronics,Automotive,Mobil,700,330,119622.99999999999,34846.71,105.5960909090909
+PROD-000677,Yakima Organic leadingedge moderator Car Electronics,Automotive,Yakima,685,325,115621.15,36724.41,112.99818461538463
+PROD-000678,Michelin Programmable reciprocal complexity Car Electronics,Automotive,Michelin,663,320,230651.07,90293.62,282.1675625
+PROD-000679,Goodyear Multi-lateral holistic forecast Car Electronics,Automotive,Goodyear,704,329,262556.8,105368.07,320.2676899696049
+PROD-000680,Michelin Networked incremental time-frame Car Electronics,Automotive,Michelin,621,293,66894.12,31160.05,106.34829351535836
+PROD-000681,Continental Mandatory systematic policy Car Electronics,Automotive,Continental,701,331,359865.36,124087.22,374.88586102719034
+PROD-000682,Castrol Business-focused responsive project Car Electronics,Automotive,Castrol,790,372,68390.29999999999,17158.57,46.12518817204301
+PROD-000683,Yakima Managed asymmetric groupware Car Electronics,Automotive,Yakima,739,359,43785.75,13900.210000000001,38.719247910863515
+PROD-000684,Castrol Cross-platform next generation service-desk Car Electronics,Automotive,Castrol,761,355,51291.4,19855.23,55.93022535211267
+PROD-000685,Thule Networked executive extranet Motorcycle Gear,Automotive,Thule,652,331,75729.8,17747.93,53.61912386706949
+PROD-000686,Mobil Up-sized stable portal Motorcycle Gear,Automotive,Mobil,804,369,328056.12,120799.13,327.3689159891599
+PROD-000687,Bridgestone Distributed full-range artificial intelligence Motorcycle Gear,Automotive,Bridgestone,672,320,267160.32,95281.16,297.753625
+PROD-000688,Yakima Reduced stable circuit Motorcycle Gear,Automotive,Yakima,770,351,244282.5,64897.79,184.89398860398862
+PROD-000689,Thule Monitored fault-tolerant projection Motorcycle Gear,Automotive,Thule,667,330,33436.71,9672.64,29.3110303030303
+PROD-000690,Michelin Total stable infrastructure Motorcycle Gear,Automotive,Michelin,726,359,123420.0,59112.04,164.6574930362117
+PROD-000691,Castrol De-engineered radical strategy Motorcycle Gear,Automotive,Castrol,695,313,318949.4,115584.86,369.28070287539936
+PROD-000692,Michelin Configurable fault-tolerant open architecture Motorcycle Gear,Automotive,Michelin,736,348,389447.04,93504.3,268.6905172413793
+PROD-000693,Continental Multi-tiered secondary utilization Tools,Automotive,Continental,709,343,112376.5,41408.06,120.72320699708455
+PROD-000694,Goodyear Managed clear-thinking secured line Tools,Automotive,Goodyear,854,387,399475.57999999996,203403.76,525.5911111111111
+PROD-000695,Continental Total user-facing software Tools,Automotive,Continental,702,326,202934.16,51431.08,157.7640490797546
+PROD-000696,Bridgestone Progressive background project Tools,Automotive,Bridgestone,703,322,217037.19,102695.77,318.9309627329193
+PROD-000697,Valvoline Synchronized interactive migration Tools,Automotive,Valvoline,697,343,346283.54,142712.53,416.0715160349854
+PROD-000698,Goodyear Multi-lateral 3rdgeneration hierarchy Tools,Automotive,Goodyear,754,371,436867.6,198875.68,536.0530458221024
+PROD-000699,Castrol Integrated contextually-based data-warehouse Tools,Automotive,Castrol,629,310,117333.66,31894.63,102.88590322580646
+PROD-000700,Bosch Mandatory zero administration matrix Tools,Automotive,Bosch,767,363,297642.02,81484.83,224.47611570247935
+PROD-000701,Mobil Ergonomic directional challenge Cleaning,Automotive,Mobil,614,303,338160.5,118869.81,392.30960396039603
+PROD-000702,Castrol Distributed asynchronous frame Cleaning,Automotive,Castrol,750,351,317715.0,95422.58,271.8592022792023
+PROD-000703,Castrol Cross-platform motivating throughput Cleaning,Automotive,Castrol,741,348,383215.56,104064.27,299.03525862068966
+PROD-000704,Valvoline Quality-focused user-facing moderator Cleaning,Automotive,Valvoline,679,326,400908.76,195907.34,600.9427607361963
+PROD-000705,Mobil Automated stable Graphical User Interface Cleaning,Automotive,Mobil,713,325,90444.05,21230.87,65.32575384615384
+PROD-000706,Castrol Visionary regional capacity Cleaning,Automotive,Castrol,734,339,79433.48,30786.94,90.81693215339233
+PROD-000707,Castrol Right-sized homogeneous collaboration Cleaning,Automotive,Castrol,705,351,48229.049999999996,12168.12,34.66700854700855
+PROD-000708,Continental Diverse contextually-based solution Cleaning,Automotive,Continental,726,326,227252.52,51176.75,156.98389570552146
+PROD-000709,Castrol Visionary regional workforce Cleaning,Automotive,Castrol,772,347,456082.16,151343.54,436.148530259366
+PROD-000710,Mobil Down-sized uniform intranet Cleaning,Automotive,Mobil,795,365,92418.75,22466.38,61.551726027397265
+PROD-000711,Yakima Balanced incremental hierarchy Cleaning,Automotive,Yakima,779,369,88883.9,46710.26,126.58607046070462
+PROD-000712,Mobil Synergistic uniform encoding Cleaning,Automotive,Mobil,713,342,232359.57,65008.08,190.0821052631579
+PROD-000713,Castrol Organic reciprocal forecast Cleaning,Automotive,Castrol,737,331,48686.22,14157.58,42.77214501510574
+PROD-000714,Braun Versatile value-added toolset Vitamins,Health & Wellness,Braun,716,338,185859.28,70280.57,207.9306804733728
+PROD-000715,Braun Organized discrete monitoring Vitamins,Health & Wellness,Braun,675,306,146758.5,69891.48,228.40352941176468
+PROD-000716,Garmin Front-line fault-tolerant workforce Vitamins,Health & Wellness,Garmin,688,334,171428.96,77572.22,232.25215568862276
+PROD-000717,CVS Health Phased content-based hub Vitamins,Health & Wellness,CVS Health,716,337,111588.59999999999,40511.8,120.21305637982196
+PROD-000718,Pfizer Synergistic object-oriented intranet Vitamins,Health & Wellness,Pfizer,703,312,45357.56,16997.52,54.47923076923077
+PROD-000719,Johnson & Johnson Persistent zero administration forecast Vitamins,Health & Wellness,Johnson & Johnson,820,370,35817.6,17787.02,48.07302702702703
+PROD-000720,GNC Vision-oriented homogeneous middleware Vitamins,Health & Wellness,GNC,776,359,88588.16,40400.76,112.53693593314763
+PROD-000721,GNC Progressive intangible complexity Vitamins,Health & Wellness,GNC,696,336,139603.68,57936.36,172.42964285714285
+PROD-000722,Omron Exclusive real-time challenge Supplements,Health & Wellness,Omron,732,357,186520.91999999998,82573.76,231.2990476190476
+PROD-000723,Johnson & Johnson Function-based actuating project Supplements,Health & Wellness,Johnson & Johnson,719,330,140729.87,74305.83,225.1691818181818
+PROD-000724,Garmin Polarized holistic neural-net Supplements,Health & Wellness,Garmin,774,357,83321.1,32120.5,89.9733893557423
+PROD-000725,CVS Health Customer-focused transitional model Supplements,Health & Wellness,CVS Health,679,323,44026.36,15841.77,49.04572755417957
+PROD-000726,Johnson & Johnson Decentralized executive artificial intelligence Supplements,Health & Wellness,Johnson & Johnson,743,355,188395.08,95100.09,267.8875774647887
+PROD-000727,Johnson & Johnson Virtual cohesive flexibility Supplements,Health & Wellness,Johnson & Johnson,700,337,148981.0,66559.28,197.50528189910978
+PROD-000728,Johnson & Johnson Organized multimedia circuit Supplements,Health & Wellness,Johnson & Johnson,718,339,54280.799999999996,29162.15,86.02404129793511
+PROD-000729,Philips Optional background definition Supplements,Health & Wellness,Philips,734,336,147644.1,46193.89,137.48181547619046
+PROD-000730,Philips Organized grid-enabled algorithm Medical Devices,Health & Wellness,Philips,781,349,182230.73,66005.04,189.12618911174783
+PROD-000731,Pure Vitamin Operative actuating infrastructure Medical Devices,Health & Wellness,Pure Vitamin,719,338,64120.420000000006,21524.12,63.68082840236686
+PROD-000732,Omron Profit-focused holistic encoding Medical Devices,Health & Wellness,Omron,782,362,136638.86,71218.03,196.73488950276243
+PROD-000733,Philips Networked attitude-oriented hub Medical Devices,Health & Wellness,Philips,731,338,106872.2,34528.88,102.156449704142
+PROD-000734,Philips Face-to-face 4thgeneration functionalities Medical Devices,Health & Wellness,Philips,823,390,101566.43,31866.77,81.70966666666666
+PROD-000735,CVS Health Cross-platform transitional projection Medical Devices,Health & Wellness,CVS Health,714,334,96697.02,51840.04,155.20970059880239
+PROD-000736,Pure Vitamin Managed client-server challenge Medical Devices,Health & Wellness,Pure Vitamin,725,339,200571.25,99086.73,292.2912389380531
+PROD-000737,Omron Automated executive leverage Medical Devices,Health & Wellness,Omron,685,314,67321.8,23708.09,75.50347133757961
+PROD-000738,Garmin Total client-driven task-force Medical Devices,Health & Wellness,Garmin,789,366,192831.6,107783.62,294.49076502732237
+PROD-000739,Philips Triple-buffered methodical knowledge user Medical Devices,Health & Wellness,Philips,680,336,151028.0,73208.62,217.8827976190476
+PROD-000740,Fitbit Seamless 24hour artificial intelligence Medical Devices,Health & Wellness,Fitbit,650,310,61899.5,20699.48,66.77251612903225
+PROD-000741,Omron Ameliorated eco-centric data-warehouse Medical Devices,Health & Wellness,Omron,791,364,170500.05000000002,76745.65,210.83969780219778
+PROD-000742,Garmin Distributed neutral superstructure Medical Devices,Health & Wellness,Garmin,686,319,57582.84,32141.76,100.75786833855798
+PROD-000743,Pure Vitamin Robust multi-tasking interface Medical Devices,Health & Wellness,Pure Vitamin,726,346,73224.36,29959.01,86.58673410404624
+PROD-000744,Braun Customizable zero-defect forecast Fitness Trackers,Health & Wellness,Braun,702,347,70536.96,28382.72,81.79458213256484
+PROD-000745,Pure Vitamin Front-line exuding capability Fitness Trackers,Health & Wellness,Pure Vitamin,697,342,189814.01,69135.16,202.14959064327488
+PROD-000746,Fitbit Business-focused disintermediate instruction set Fitness Trackers,Health & Wellness,Fitbit,741,343,136395.87,46059.13,134.28317784256558
+PROD-000747,Pure Vitamin Sharable regional knowledgebase Fitness Trackers,Health & Wellness,Pure Vitamin,769,371,28845.19,15120.46,40.75595687331536
+PROD-000748,Omron Cloned bifurcated methodology Fitness Trackers,Health & Wellness,Omron,674,345,16769.12,7057.5599999999995,20.456695652173913
+PROD-000749,Philips Right-sized national adapter Fitness Trackers,Health & Wellness,Philips,712,331,184315.44,81771.98,247.04525679758308
+PROD-000750,Johnson & Johnson Self-enabling multimedia orchestration Fitness Trackers,Health & Wellness,Johnson & Johnson,739,338,186183.66,77020.06,227.87
+PROD-000751,Philips Front-line transitional circuit Fitness Trackers,Health & Wellness,Philips,707,340,29517.25,10348.19,30.43585294117647
+PROD-000752,Omron Implemented interactive ability Fitness Trackers,Health & Wellness,Omron,641,308,161115.35,55238.19,179.34477272727273
+PROD-000753,GNC Seamless heuristic encoding Fitness Trackers,Health & Wellness,GNC,715,328,116166.05,51307.56,156.42548780487803
+PROD-000754,Fitbit Re-engineered intangible contingency Fitness Trackers,Health & Wellness,Fitbit,783,360,108727.38,39832.82,110.64672222222222
+PROD-000755,Philips Synchronized static artificial intelligence Fitness Trackers,Health & Wellness,Philips,657,316,176976.09,78333.34,247.8903164556962
+PROD-000756,GNC Progressive high-level architecture Fitness Trackers,Health & Wellness,GNC,730,348,142291.6,58564.33,168.28830459770114
+PROD-000757,Johnson & Johnson Progressive needs-based middleware Massagers,Health & Wellness,Johnson & Johnson,662,320,54727.54,23394.9,73.10906250000001
+PROD-000758,Omron Profit-focused neutral adapter Massagers,Health & Wellness,Omron,713,333,88832.67,38609.2,115.94354354354354
+PROD-000759,Braun Networked methodical analyzer Massagers,Health & Wellness,Braun,655,297,187264.5,81769.73,275.3189562289562
+PROD-000760,Omron Sharable human-resource hub Massagers,Health & Wellness,Omron,691,344,110069.39,44184.57,128.44351744186045
+PROD-000761,Fitbit Function-based value-added adapter Massagers,Health & Wellness,Fitbit,711,341,62212.5,29570.06,86.71571847507332
+PROD-000762,Garmin Multi-channeled zero tolerance architecture Massagers,Health & Wellness,Garmin,745,348,20867.45,11313.3,32.509482758620685
+PROD-000763,Garmin Monitored disintermediate superstructure Massagers,Health & Wellness,Garmin,666,314,194398.74,92748.43,295.3771656050955
+PROD-000764,Braun Switchable responsive benchmark Massagers,Health & Wellness,Braun,780,352,55294.2,21968.33,62.41002840909091
+PROD-000765,CVS Health Visionary optimal support Massagers,Health & Wellness,CVS Health,702,333,51940.979999999996,22806.55,68.48813813813814
+PROD-000766,Johnson & Johnson Versatile full-range challenge Massagers,Health & Wellness,Johnson & Johnson,778,348,13366.039999999999,6789.28,19.509425287356322
+PROD-000767,Garmin Balanced heuristic moratorium Massagers,Health & Wellness,Garmin,789,376,36128.31,18027.24,47.94478723404256
+PROD-000768,Johnson & Johnson Mandatory secondary conglomeration Massagers,Health & Wellness,Johnson & Johnson,715,336,127291.45,56576.5,168.38244047619048
+PROD-000769,CVS Health Vision-oriented systemic Local Area Network Massagers,Health & Wellness,CVS Health,747,346,209570.85,100302.05,289.89031791907513
+PROD-000770,Johnson & Johnson Total mission-critical product Massagers,Health & Wellness,Johnson & Johnson,821,377,156696.06,83843.51,222.39657824933687
+PROD-000771,CVS Health Enterprise-wide client-driven architecture Thermometers,Health & Wellness,CVS Health,788,357,125772.68000000001,43505.78,121.86492997198879
+PROD-000772,Braun Universal zero-defect knowledgebase Thermometers,Health & Wellness,Braun,758,358,163076.12,50606.53,141.3590223463687
+PROD-000773,Johnson & Johnson Automated explicit customer loyalty Thermometers,Health & Wellness,Johnson & Johnson,728,352,67922.4,30690.15,87.18792613636364
+PROD-000774,Garmin Balanced dedicated analyzer Thermometers,Health & Wellness,Garmin,667,315,88137.37999999999,29970.26,95.14368253968253
+PROD-000775,GNC Intuitive fault-tolerant migration Thermometers,Health & Wellness,GNC,654,313,123115.5,61180.36,195.4644089456869
+PROD-000776,Fitbit Object-based needs-based leverage Thermometers,Health & Wellness,Fitbit,725,329,208212.75,73004.32,221.89762917933132
+PROD-000777,Johnson & Johnson Function-based 5thgeneration system engine Blood Pressure Monitors,Health & Wellness,Johnson & Johnson,762,368,149633.94,83180.43,226.03377717391302
+PROD-000778,Omron Stand-alone content-based forecast Blood Pressure Monitors,Health & Wellness,Omron,789,376,25216.44,10494.03,27.90965425531915
+PROD-000779,Pfizer Multi-channeled zero-defect application Blood Pressure Monitors,Health & Wellness,Pfizer,666,323,31721.58,14558.34,45.07226006191951
+PROD-000780,Johnson & Johnson Streamlined full-range flexibility Blood Pressure Monitors,Health & Wellness,Johnson & Johnson,641,295,77035.38,40999.32,138.98074576271188
+PROD-000781,Garmin Decentralized holistic Internet solution Blood Pressure Monitors,Health & Wellness,Garmin,704,330,161279.36000000002,88422.67,267.94748484848486
+PROD-000782,Garmin Open-architected value-added intranet Blood Pressure Monitors,Health & Wellness,Garmin,648,319,75239.28,25164.32,78.88501567398119
+PROD-000783,GNC Networked global contingency Blood Pressure Monitors,Health & Wellness,GNC,735,348,153188.69999999998,73090.97,210.03152298850574
+PROD-000784,Fitbit Proactive system-worthy methodology Blood Pressure Monitors,Health & Wellness,Fitbit,722,327,12916.58,5321.32,16.2731498470948
+PROD-000785,Pure Vitamin Multi-layered multi-state flexibility Blood Pressure Monitors,Health & Wellness,Pure Vitamin,769,363,145787.02000000002,51491.2,141.84903581267216
+PROD-000786,Braun Configurable upward-trending interface First Aid,Health & Wellness,Braun,759,361,37464.24,13348.08,36.975290858725764
+PROD-000787,Johnson & Johnson Configurable intermediate portal First Aid,Health & Wellness,Johnson & Johnson,723,344,120871.14,66825.59,194.26043604651161
+PROD-000788,Pure Vitamin Enterprise-wide needs-based frame First Aid,Health & Wellness,Pure Vitamin,729,346,98619.12,48502.61,140.18095375722544
+PROD-000789,Philips Inverse bi-directional artificial intelligence First Aid,Health & Wellness,Philips,702,329,126009.0,67660.83,205.65601823708207
+PROD-000790,Braun Inverse stable frame First Aid,Health & Wellness,Braun,699,336,121772.79000000001,56307.99,167.58330357142856
+PROD-000791,Pfizer Integrated local portal First Aid,Health & Wellness,Pfizer,763,342,153286.7,52440.06,153.33350877192981
+PROD-000792,Pure Vitamin Universal interactive concept First Aid,Health & Wellness,Pure Vitamin,679,322,93382.87,35537.41,110.36462732919256
+PROD-000793,Philips Team-oriented leadingedge hardware First Aid,Health & Wellness,Philips,680,315,69564.0,26086.55,82.81444444444445
+PROD-000794,GNC Organized 6thgeneration superstructure First Aid,Health & Wellness,GNC,714,327,173173.56,64092.89,196.00272171253823
+PROD-000795,CVS Health Multi-channeled reciprocal Internet solution First Aid,Health & Wellness,CVS Health,716,348,197787.84,89541.34,257.3027011494253
+PROD-000796,Pfizer Grass-roots scalable utilization First Aid,Health & Wellness,Pfizer,798,357,144382.14,70330.49,197.0041736694678
+PROD-000797,Pure Vitamin Centralized asynchronous secured line First Aid,Health & Wellness,Pure Vitamin,672,321,145212.48,57179.21,178.1283800623053
+PROD-000798,Philips Sharable impactful hierarchy First Aid,Health & Wellness,Philips,650,306,40664.0,19365.65,63.28643790849674
+PROD-000799,Braun Profound value-added service-desk First Aid,Health & Wellness,Braun,701,348,188344.68,90779.72,260.8612643678161
+PROD-000800,PetSafe Diverse 4thgeneration circuit Pet Food,Pet Supplies,PetSafe,768,372,12372.48,5362.32,14.414838709677419
+PROD-000801,Blue Buffalo Robust systematic toolset Pet Food,Pet Supplies,Blue Buffalo,651,310,59722.74,35275.47,113.79183870967742
+PROD-000802,Hill's Organic 5thgeneration capacity Pet Food,Pet Supplies,Hill's,699,332,59198.31,26210.26,78.94656626506024
+PROD-000803,Purina Cloned disintermediate time-frame Pet Food,Pet Supplies,Purina,694,336,67665.0,37970.47,113.0073511904762
+PROD-000804,Kong Stand-alone high-level hierarchy Pet Food,Pet Supplies,Kong,745,349,88625.2,38736.01,110.99143266475646
+PROD-000805,Royal Canin Networked non-volatile alliance Pet Food,Pet Supplies,Royal Canin,726,338,91868.04000000001,58333.71,172.58494082840235
+PROD-000806,Royal Canin Robust coherent service-desk Pet Food,Pet Supplies,Royal Canin,696,317,167986.56,83466.55,263.3014195583596
+PROD-000807,Royal Canin Organized holistic hub Pet Food,Pet Supplies,Royal Canin,678,320,11817.539999999999,6089.24,19.028875
+PROD-000808,Iams Organic well-modulated archive Pet Food,Pet Supplies,Iams,718,347,11200.8,4835.32,13.934639769452449
+PROD-000809,Petmate Re-engineered client-driven moderator Pet Food,Pet Supplies,Petmate,745,344,59167.9,22827.4,66.35872093023256
+PROD-000810,PetSafe Multi-lateral hybrid functionalities Pet Food,Pet Supplies,PetSafe,666,314,159453.72,87427.2,278.43057324840765
+PROD-000811,Blue Buffalo Streamlined even-keeled encryption Pet Food,Pet Supplies,Blue Buffalo,731,336,113093.01000000001,44737.23,133.14651785714287
+PROD-000812,Kong Customizable 4thgeneration support Pet Food,Pet Supplies,Kong,733,346,58068.26,21651.46,62.576473988439304
+PROD-000813,Purina Enterprise-wide modular model Pet Toys,Pet Supplies,Purina,661,310,67765.72,36793.89,118.68996774193548
+PROD-000814,Petmate Networked next generation capability Pet Toys,Pet Supplies,Petmate,766,344,35994.340000000004,16686.04,48.50593023255814
+PROD-000815,Blue Buffalo Fundamental zero-defect firmware Pet Toys,Pet Supplies,Blue Buffalo,613,312,118223.18000000001,47861.26,153.40147435897435
+PROD-000816,Royal Canin Triple-buffered local data-warehouse Pet Toys,Pet Supplies,Royal Canin,690,322,56966.4,30804.68,95.66670807453416
+PROD-000817,Blue Buffalo Seamless executive solution Pet Toys,Pet Supplies,Blue Buffalo,736,352,17546.239999999998,9105.82,25.868806818181817
+PROD-000818,Kong Pre-emptive dedicated capability Pet Toys,Pet Supplies,Kong,727,335,175890.38,78116.45,233.1834328358209
+PROD-000819,Kong Devolved asynchronous knowledge user Pet Toys,Pet Supplies,Kong,679,321,101381.49,59502.04,185.36461059190032
+PROD-000820,Hill's Enhanced transitional intranet Pet Toys,Pet Supplies,Hill's,696,338,111568.8,55741.88,164.91680473372782
+PROD-000821,Iams Cross-group systemic functionalities Pet Toys,Pet Supplies,Iams,724,348,179928.48,69227.47,198.92951149425286
+PROD-000822,Hill's Synchronized grid-enabled strategy Pet Toys,Pet Supplies,Hill's,639,308,93709.35,42640.44,138.44298701298703
+PROD-000823,Nylabone Cloned neutral moratorium Pet Toys,Pet Supplies,Nylabone,758,353,79461.14,48498.93,137.39073654390936
+PROD-000824,Royal Canin Implemented exuding complexity Pet Beds,Pet Supplies,Royal Canin,732,349,102721.56000000001,56221.45,161.0929799426934
+PROD-000825,Iams Universal tertiary standardization Pet Beds,Pet Supplies,Iams,669,341,152712.63,68733.1,201.56334310850443
+PROD-000826,Hill's Sharable context-sensitive utilization Pet Beds,Pet Supplies,Hill's,635,300,138931.65,81593.53,271.9784333333333
+PROD-000827,Arm & Hammer Multi-lateral multimedia definition Pet Beds,Pet Supplies,Arm & Hammer,727,337,29050.920000000002,11760.39,34.897299703264096
+PROD-000828,PetSafe Decentralized dedicated utilization Pet Beds,Pet Supplies,PetSafe,753,365,166036.5,65343.2,179.02246575342465
+PROD-000829,Blue Buffalo Devolved disintermediate utilization Collars & Leashes,Pet Supplies,Blue Buffalo,752,365,91022.08,34189.75,93.67054794520548
+PROD-000830,Royal Canin Proactive 4thgeneration hierarchy Collars & Leashes,Pet Supplies,Royal Canin,674,323,146426.5,68565.98,212.27857585139319
+PROD-000831,Blue Buffalo Reactive object-oriented hub Collars & Leashes,Pet Supplies,Blue Buffalo,799,363,62793.41,35414.91,97.56173553719009
+PROD-000832,Arm & Hammer Persistent neutral capacity Collars & Leashes,Pet Supplies,Arm & Hammer,779,359,80057.83,38408.45,106.98732590529247
+PROD-000833,Royal Canin Seamless background architecture Collars & Leashes,Pet Supplies,Royal Canin,702,336,104282.1,41677.26,124.03946428571429
+PROD-000834,Nylabone Integrated hybrid structure Collars & Leashes,Pet Supplies,Nylabone,711,335,76660.01999999999,30979.25,92.47537313432836
+PROD-000835,Petmate Up-sized mission-critical moderator Collars & Leashes,Pet Supplies,Petmate,679,320,100254.35,38798.67,121.24584374999999
+PROD-000836,Petmate Open-source zero administration installation Collars & Leashes,Pet Supplies,Petmate,728,337,26368.16,10754.38,31.912106824925814
+PROD-000837,Blue Buffalo Re-engineered asynchronous capacity Collars & Leashes,Pet Supplies,Blue Buffalo,692,340,147582.84,58808.95,172.9675
+PROD-000838,PetSafe Intuitive secondary archive Grooming,Pet Supplies,PetSafe,735,347,163192.05000000002,81602.3,235.16512968299713
+PROD-000839,Arm & Hammer Organized maximized software Grooming,Pet Supplies,Arm & Hammer,904,414,144983.52,54928.21,132.67683574879226
+PROD-000840,Blue Buffalo Programmable grid-enabled capacity Grooming,Pet Supplies,Blue Buffalo,718,325,89347.92,38750.18,119.23132307692308
+PROD-000841,PetSafe Vision-oriented neutral productivity Grooming,Pet Supplies,PetSafe,783,363,137972.43,80485.23,221.72239669421486
+PROD-000842,Royal Canin Reverse-engineered contextually-based throughput Grooming,Pet Supplies,Royal Canin,699,315,67166.91,27576.05,87.54301587301588
+PROD-000843,Kong De-engineered intermediate middleware Grooming,Pet Supplies,Kong,696,329,42156.72,16254.02,49.404316109422496
+PROD-000844,Petmate Centralized bottom-line model Grooming,Pet Supplies,Petmate,670,322,167151.6,77274.38,239.98254658385093
+PROD-000845,Petmate Distributed exuding concept Grooming,Pet Supplies,Petmate,771,331,62227.409999999996,37778.97,114.13586102719033
+PROD-000846,Petmate Diverse fresh-thinking strategy Grooming,Pet Supplies,Petmate,691,317,145241.29,61754.01,194.8076025236593
+PROD-000847,Nylabone Face-to-face grid-enabled model Health Supplies,Pet Supplies,Nylabone,666,307,127086.12,52319.42,170.4215635179153
+PROD-000848,PetSafe Horizontal attitude-oriented extranet Health Supplies,Pet Supplies,PetSafe,719,330,139392.53,57408.51,173.96518181818183
+PROD-000849,Iams Exclusive scalable neural-net Health Supplies,Pet Supplies,Iams,735,355,22983.45,10939.76,30.816225352112678
+PROD-000850,Kong Grass-roots clear-thinking product Health Supplies,Pet Supplies,Kong,770,359,83013.7,41322.99,115.10582172701949
+PROD-000851,Kong Innovative reciprocal monitoring Health Supplies,Pet Supplies,Kong,671,312,62886.12,37766.89,121.04772435897436
+PROD-000852,Royal Canin Cross-group motivating project Health Supplies,Pet Supplies,Royal Canin,687,334,163128.15,99712.44,298.5402395209581
+PROD-000853,Kong Down-sized optimizing paradigm Health Supplies,Pet Supplies,Kong,684,320,92627.28,49118.85,153.49640625
+PROD-000854,Purina Distributed composite protocol Health Supplies,Pet Supplies,Purina,728,341,94749.2,39011.59,114.40348973607037
+PROD-000855,Petmate Secured uniform portal Health Supplies,Pet Supplies,Petmate,656,320,14464.800000000001,8555.48,26.735875
+PROD-000856,Hill's Mandatory non-volatile analyzer Health Supplies,Pet Supplies,Hill's,713,339,57660.310000000005,32834.2,96.85604719764011
+PROD-000857,Nylabone Assimilated attitude-oriented analyzer Health Supplies,Pet Supplies,Nylabone,655,330,132860.2,52139.44,157.99830303030305
+PROD-000858,Royal Canin Stand-alone zero administration orchestration Aquariums,Pet Supplies,Royal Canin,795,374,180838.65,97527.7,260.7692513368984
+PROD-000859,Purina Fundamental solution-oriented database Aquariums,Pet Supplies,Purina,705,349,45296.25,20644.13,59.15223495702006
+PROD-000860,Blue Buffalo Visionary object-oriented instruction set Aquariums,Pet Supplies,Blue Buffalo,742,332,114891.28,59122.65,178.08027108433734
+PROD-000861,Blue Buffalo Secured scalable algorithm Aquariums,Pet Supplies,Blue Buffalo,722,324,28519.0,11726.95,36.194290123456796
+PROD-000862,Kong Proactive responsive moratorium Aquariums,Pet Supplies,Kong,738,356,86965.92,40295.49,113.1895786516854
+PROD-000863,Petmate Implemented secondary framework Aquariums,Pet Supplies,Petmate,758,351,20640.34,9040.19,25.755527065527065
+PROD-000864,Petmate Polarized dynamic workforce Aquariums,Pet Supplies,Petmate,670,324,121504.5,48503.46,149.70203703703703
+PROD-000865,Purina Synergized impactful framework Bird Cages,Pet Supplies,Purina,748,327,106664.8,51726.92,158.1862996941896
+PROD-000866,Iams Persevering asynchronous solution Bird Cages,Pet Supplies,Iams,771,351,151177.68,84062.71,239.4949002849003
+PROD-000867,Purina Centralized cohesive intranet Bird Cages,Pet Supplies,Purina,715,348,55934.450000000004,31700.0,91.0919540229885
+PROD-000868,Iams Operative mission-critical Local Area Network Bird Cages,Pet Supplies,Iams,745,337,17164.8,7095.84,21.055905044510386
+PROD-000869,Kong Expanded global portal Bird Cages,Pet Supplies,Kong,711,325,7131.33,3495.45,10.755230769230769
+PROD-000870,PetSafe Digitized foreground structure Bird Cages,Pet Supplies,PetSafe,752,364,57362.56,25193.37,69.21255494505495
+PROD-000871,PetSafe Intuitive upward-trending hardware Bird Cages,Pet Supplies,PetSafe,738,344,156042.72,94830.48,275.67
+PROD-000872,Hill's Open-architected clear-thinking task-force Bird Cages,Pet Supplies,Hill's,708,342,132976.56,71453.51,208.92839181286547
+PROD-000873,Nylabone Multi-layered multimedia open architecture Bird Cages,Pet Supplies,Nylabone,753,338,72634.37999999999,40579.04,120.05633136094674
+PROD-000874,Graco Customer-focused foreground encoding Diapers,Baby & Kids,Graco,711,358,85298.67,32758.67,91.50466480446927
+PROD-000875,VTech Persistent bottom-line flexibility Diapers,Baby & Kids,VTech,723,338,115918.59000000001,36570.61,108.19707100591717
+PROD-000876,VTech Organized dynamic circuit Diapers,Baby & Kids,VTech,673,313,227453.81,133553.74,426.68926517571884
+PROD-000877,Gerber Cross-platform actuating frame Diapers,Baby & Kids,Gerber,728,336,131353.04,62726.340000000004,186.68553571428572
+PROD-000878,Graco Networked reciprocal instruction set Diapers,Baby & Kids,Graco,841,380,210914.38999999998,127137.57,334.57255263157896
+PROD-000879,Huggies Fully-configurable cohesive Graphic Interface Diapers,Baby & Kids,Huggies,693,325,175931.91,72878.99,224.24304615384617
+PROD-000880,Baby Einstein Re-engineered uniform functionalities Diapers,Baby & Kids,Baby Einstein,722,352,194903.9,65315.29,185.55480113636364
+PROD-000881,Graco Ergonomic well-modulated complexity Diapers,Baby & Kids,Graco,675,313,77523.75,43992.17,140.55006389776358
+PROD-000882,Britax Proactive multimedia Local Area Network Diapers,Baby & Kids,Britax,724,334,167091.96,100248.29,300.14458083832335
+PROD-000883,Gerber Proactive fault-tolerant methodology Diapers,Baby & Kids,Gerber,825,374,276812.25,127041.63,339.6835026737968
+PROD-000884,Baby Einstein Ameliorated background infrastructure Diapers,Baby & Kids,Baby Einstein,706,334,118840.98000000001,65188.68,195.17568862275448
+PROD-000885,Pampers Profit-focused logistical encoding Diapers,Baby & Kids,Pampers,639,306,88750.70999999999,51719.88,169.0192156862745
+PROD-000886,Britax Extended optimal help-desk Diapers,Baby & Kids,Britax,714,333,110334.42,39769.54,119.42804804804805
+PROD-000887,Pampers Business-focused actuating forecast Baby Food,Baby & Kids,Pampers,650,320,55913.0,23495.47,73.42334375
+PROD-000888,VTech Proactive radical projection Baby Food,Baby & Kids,VTech,725,349,224641.25,124888.38,357.84636103151865
+PROD-000889,Chicco Synergistic methodical forecast Baby Food,Baby & Kids,Chicco,669,334,146243.4,78958.04,236.40131736526945
+PROD-000890,Pampers Public-key 24/7 benchmark Baby Food,Baby & Kids,Pampers,775,364,180807.5,70725.78,194.3015934065934
+PROD-000891,Britax Optional client-driven firmware Baby Food,Baby & Kids,Britax,686,320,158479.72,78242.76,244.508625
+PROD-000892,Pampers Upgradable high-level task-force Baby Food,Baby & Kids,Pampers,754,337,61631.96,20185.71,59.898249258160234
+PROD-000893,Huggies Open-architected high-level analyzer Baby Food,Baby & Kids,Huggies,683,354,94397.43000000001,57587.16,162.67559322033898
+PROD-000894,Baby Einstein Open-architected actuating open system Baby Food,Baby & Kids,Baby Einstein,766,360,143862.46,77130.45,214.25125
+PROD-000895,VTech Realigned content-based hierarchy Baby Food,Baby & Kids,VTech,737,335,14681.04,7352.85,21.948805970149255
+PROD-000896,Britax Reactive executive archive Baby Gear,Baby & Kids,Britax,707,330,15179.289999999999,8830.67,26.75960606060606
+PROD-000897,Evenflo Networked motivating knowledge user Baby Gear,Baby & Kids,Evenflo,748,354,134722.28,68555.08,193.65841807909604
+PROD-000898,Baby Einstein Virtual neutral focus group Baby Gear,Baby & Kids,Baby Einstein,753,342,161420.61000000002,98981.91,289.42078947368424
+PROD-000899,Huggies Secured systemic pricing structure Baby Gear,Baby & Kids,Huggies,724,355,244545.47999999998,111053.17,312.8258309859155
+PROD-000900,Gerber Decentralized clear-thinking attitude Baby Gear,Baby & Kids,Gerber,790,366,94381.3,35822.36,97.87530054644809
+PROD-000901,VTech Object-based holistic utilization Toys,Baby & Kids,VTech,783,356,148480.29,46383.58,130.29095505617977
+PROD-000902,Graco Mandatory next generation hierarchy Toys,Baby & Kids,Graco,676,321,13979.68,5345.79,16.65355140186916
+PROD-000903,Huggies Versatile client-server customer loyalty Toys,Baby & Kids,Huggies,732,346,40457.64,21951.64,63.44404624277456
+PROD-000904,Gerber Robust multimedia initiative Toys,Baby & Kids,Gerber,716,348,81094.16,31655.19,90.96318965517241
+PROD-000905,Chicco Profit-focused 6thgeneration analyzer Toys,Baby & Kids,Chicco,657,315,86467.77,44673.07,141.81926984126983
+PROD-000906,Chicco Automated client-driven structure Toys,Baby & Kids,Chicco,703,340,81147.29000000001,33945.95,99.8410294117647
+PROD-000907,Graco Managed methodical model Toys,Baby & Kids,Graco,676,334,201968.52,122918.68000000001,368.02000000000004
+PROD-000908,Evenflo Persevering coherent portal Toys,Baby & Kids,Evenflo,709,346,196655.33,69224.84,200.07179190751444
+PROD-000909,Britax Profound client-driven Graphic Interface Toys,Baby & Kids,Britax,711,348,105462.63,56165.15,161.3941091954023
+PROD-000910,Evenflo Seamless foreground complexity Toys,Baby & Kids,Evenflo,633,303,57894.18,32174.59,106.18676567656766
+PROD-000911,Gerber Object-based reciprocal support Clothing,Baby & Kids,Gerber,692,314,183649.88,86695.31,276.09971337579617
+PROD-000912,Evenflo Innovative optimizing Graphical User Interface Clothing,Baby & Kids,Evenflo,757,363,254246.02000000002,87946.68,242.2773553719008
+PROD-000913,Evenflo Profit-focused multimedia monitoring Clothing,Baby & Kids,Evenflo,693,348,240533.37,109606.88,314.9622988505747
+PROD-000914,Baby Einstein Pre-emptive tertiary open system Clothing,Baby & Kids,Baby Einstein,742,338,29924.86,15091.69,44.649970414201185
+PROD-000915,Huggies Innovative methodical adapter Clothing,Baby & Kids,Huggies,740,344,59644.0,34593.96,100.56383720930232
+PROD-000916,Chicco Multi-layered full-range service-desk Clothing,Baby & Kids,Chicco,687,321,190120.38,84872.26,264.39956386292835
+PROD-000917,Gerber Customizable intangible paradigm Furniture,Baby & Kids,Gerber,769,351,220495.37000000002,92113.21,262.4307977207977
+PROD-000918,Baby Einstein Integrated uniform solution Furniture,Baby & Kids,Baby Einstein,718,355,172915.94,96864.33,272.8572676056338
+PROD-000919,Fisher-Price Self-enabling 4thgeneration policy Furniture,Baby & Kids,Fisher-Price,703,322,226619.08000000002,117630.2,365.3111801242236
+PROD-000920,Fisher-Price Phased empowering projection Furniture,Baby & Kids,Fisher-Price,752,366,235526.4,98539.73,269.2342349726776
+PROD-000921,Fisher-Price Vision-oriented optimal orchestration Furniture,Baby & Kids,Fisher-Price,725,346,46653.75,28966.98,83.71959537572255
+PROD-000922,Pampers Focused uniform application Furniture,Baby & Kids,Pampers,672,315,110859.84,62993.7,199.98
+PROD-000923,Chicco Reduced mission-critical concept Furniture,Baby & Kids,Chicco,667,329,128357.48,68792.92,209.09702127659574
+PROD-000924,Baby Einstein Progressive responsive success Furniture,Baby & Kids,Baby Einstein,636,310,154338.12,90664.21,292.4651935483871
+PROD-000925,Chicco Secured zero-defect implementation Furniture,Baby & Kids,Chicco,754,357,215138.82,105916.51,296.6849019607843
+PROD-000926,Huggies Digitized systemic encryption Strollers,Baby & Kids,Huggies,813,368,130071.87000000001,78860.41,214.29459239130435
+PROD-000927,Graco Automated object-oriented standardization Strollers,Baby & Kids,Graco,788,368,129436.87999999999,70763.81,192.29296195652174
+PROD-000928,Evenflo Customizable content-based adapter Strollers,Baby & Kids,Evenflo,835,373,248512.7,74541.1,199.84209115281502
+PROD-000929,VTech Organic foreground instruction set Strollers,Baby & Kids,VTech,730,333,219744.59999999998,117773.46,353.67405405405407
+PROD-000930,Britax Distributed incremental solution Strollers,Baby & Kids,Britax,768,347,62184.96,20516.84,59.12634005763689
+PROD-000931,Gerber Expanded incremental middleware Strollers,Baby & Kids,Gerber,750,348,190072.5,60795.61,174.70002873563217
+PROD-000932,Huggies Vision-oriented reciprocal leverage Strollers,Baby & Kids,Huggies,633,295,64534.350000000006,31358.29,106.29928813559323
+PROD-000933,Evenflo User-centric upward-trending approach Strollers,Baby & Kids,Evenflo,809,365,31939.32,13407.55,36.73301369863014
+PROD-000934,Baby Einstein Triple-buffered client-driven model Strollers,Baby & Kids,Baby Einstein,693,328,54532.17,19805.83,60.383628048780494
+PROD-000935,Chicco Expanded next generation Graphic Interface Strollers,Baby & Kids,Chicco,768,360,254315.52,83788.91,232.74697222222224
+PROD-000936,Gerber Switchable mission-critical moderator Strollers,Baby & Kids,Gerber,689,316,235913.6,87474.58,276.8182911392405
+PROD-000937,VTech Multi-tiered foreground conglomeration Strollers,Baby & Kids,VTech,720,336,125827.2,49104.41,146.14407738095238
+PROD-000938,Pampers Persevering national Graphical User Interface Strollers,Baby & Kids,Pampers,613,297,140750.93,58386.8,196.5885521885522
+PROD-000939,Chicco Quality-focused heuristic service-desk Strollers,Baby & Kids,Chicco,777,381,158741.1,60620.92,159.11002624671914
+PROD-000940,Gerber Visionary uniform software Car Seats,Baby & Kids,Gerber,674,324,12839.7,7925.45,24.461265432098767
+PROD-000941,Baby Einstein Stand-alone system-worthy firmware Car Seats,Baby & Kids,Baby Einstein,640,304,208179.19999999998,110927.53,364.8931907894737
+PROD-000942,Baby Einstein Seamless mission-critical core Car Seats,Baby & Kids,Baby Einstein,740,351,66156.0,34544.9,98.41851851851852
+PROD-000943,Graco Fully-configurable even-keeled open architecture Car Seats,Baby & Kids,Graco,695,330,180123.15,107380.37,325.3950606060606
+PROD-000944,Graco Innovative directional framework Car Seats,Baby & Kids,Graco,711,340,17611.47,8372.05,24.623676470588233
+PROD-000945,Chicco Visionary executive strategy Car Seats,Baby & Kids,Chicco,706,340,38618.200000000004,21257.95,62.52338235294118
+PROD-000946,Gerber Expanded system-worthy strategy Car Seats,Baby & Kids,Gerber,654,305,211268.16,65533.84,214.86504918032784
+PROD-000947,Britax Pre-emptive foreground matrices Car Seats,Baby & Kids,Britax,764,345,206234.16,101695.46,294.7694492753623
+PROD-000948,Huggies Monitored next generation utilization Car Seats,Baby & Kids,Huggies,731,336,195674.08000000002,66873.76,199.02904761904762
+PROD-000949,Pandora Up-sized even-keeled forecast Rings,Jewelry,Pandora,772,365,461864.44,185860.27,509.20621917808216
+PROD-000950,Mikimoto Decentralized object-oriented service-desk Rings,Jewelry,Mikimoto,744,338,214606.8,76910.77,227.54665680473374
+PROD-000951,Pandora Quality-focused homogeneous infrastructure Rings,Jewelry,Pandora,753,340,507371.39999999997,221450.12,651.3238823529412
+PROD-000952,Mikimoto Monitored zero administration website Rings,Jewelry,Mikimoto,728,356,671456.24,326125.53,916.0829494382024
+PROD-000953,Mikimoto Digitized explicit analyzer Rings,Jewelry,Mikimoto,683,317,177450.23,88135.4,278.0296529968454
+PROD-000954,Tiffany Horizontal transitional artificial intelligence Rings,Jewelry,Tiffany,685,337,148275.1,41759.93,123.916706231454
+PROD-000955,Tiffany Monitored leadingedge projection Rings,Jewelry,Tiffany,701,333,668010.9400000001,238685.77,716.774084084084
+PROD-000956,Bvlgari Function-based value-added matrices Rings,Jewelry,Bvlgari,727,348,436985.16000000003,162381.51,466.61353448275867
+PROD-000957,Mikimoto Extended dedicated monitoring Rings,Jewelry,Mikimoto,766,356,243871.42,100662.23,282.75907303370786
+PROD-000958,Mikimoto Future-proofed next generation standardization Rings,Jewelry,Mikimoto,710,344,673882.2999999999,171964.13,499.89572674418605
+PROD-000959,David Yurman Future-proofed client-driven benchmark Rings,Jewelry,David Yurman,760,351,601426.0,213363.15,607.8722222222221
+PROD-000960,Bvlgari Seamless user-facing parallelism Rings,Jewelry,Bvlgari,721,334,176248.44999999998,57724.38,172.8274850299401
+PROD-000961,David Yurman Front-line dynamic application Rings,Jewelry,David Yurman,674,323,246003.26,65581.06,203.0373374613003
+PROD-000962,Messika Synchronized multi-tasking definition Rings,Jewelry,Messika,721,341,84789.59999999999,41792.43,122.55844574780059
+PROD-000963,David Yurman Sharable discrete application Rings,Jewelry,David Yurman,694,342,368909.58,146063.8,427.08713450292396
+PROD-000964,Pandora Cross-platform incremental groupware Necklaces,Jewelry,Pandora,662,331,558747.86,228030.16,688.9128700906344
+PROD-000965,Messika Universal methodical attitude Necklaces,Jewelry,Messika,719,361,562667.8300000001,181515.24,502.812299168975
+PROD-000966,David Yurman Synergized zero administration challenge Necklaces,Jewelry,David Yurman,686,320,605113.74,218542.34,682.9448125
+PROD-000967,Van Cleef Adaptive neutral complexity Necklaces,Jewelry,Van Cleef,773,360,350918.81,175554.48,487.65133333333335
+PROD-000968,Pandora Open-source solution-oriented leverage Necklaces,Jewelry,Pandora,724,339,562743.48,296679.37,875.160383480826
+PROD-000969,Van Cleef Polarized solution-oriented customer loyalty Earrings,Jewelry,Van Cleef,705,348,385197.9,192582.62,553.3983333333333
+PROD-000970,Pandora Versatile executive Graphic Interface Earrings,Jewelry,Pandora,749,351,198350.18,85775.75,244.37535612535612
+PROD-000971,Tous Horizontal secondary approach Earrings,Jewelry,Tous,683,317,183658.69999999998,95127.55,300.08690851735014
+PROD-000972,Cartier Visionary background projection Earrings,Jewelry,Cartier,649,315,628556.5,269768.83,856.4089841269841
+PROD-000973,Swarovski Re-engineered discrete monitoring Earrings,Jewelry,Swarovski,714,331,538927.2,134194.91,405.4226888217523
+PROD-000974,Cartier User-centric uniform alliance Earrings,Jewelry,Cartier,683,317,230703.74,93529.18,295.0447318611987
+PROD-000975,David Yurman Enhanced intangible conglomeration Earrings,Jewelry,David Yurman,706,324,583113.64,271959.58,839.3814197530864
+PROD-000976,Pandora Automated hybrid toolset Earrings,Jewelry,Pandora,701,342,635694.84,177577.8,519.2333333333333
+PROD-000977,Tiffany Proactive contextually-based synergy Earrings,Jewelry,Tiffany,625,304,479087.5,194358.86,639.3383552631578
+PROD-000978,Messika Implemented 5thgeneration access Earrings,Jewelry,Messika,735,336,498300.60000000003,241994.88,720.2228571428572
+PROD-000979,Swarovski Innovative non-volatile portal Bracelets,Jewelry,Swarovski,709,321,513209.65,240836.1,750.2682242990654
+PROD-000980,Van Cleef Customer-focused full-range forecast Bracelets,Jewelry,Van Cleef,700,340,423206.0,101164.69,297.54320588235294
+PROD-000981,Van Cleef Persevering secondary moratorium Bracelets,Jewelry,Van Cleef,672,334,202984.32,69625.22,208.45874251497006
+PROD-000982,Pandora Progressive modular challenge Bracelets,Jewelry,Pandora,671,325,488957.7,140728.49,433.01073846153844
+PROD-000983,Tous Profit-focused maximized flexibility Bracelets,Jewelry,Tous,733,351,394471.27999999997,136557.6,389.0529914529915
+PROD-000984,David Yurman Ergonomic bifurcated groupware Bracelets,Jewelry,David Yurman,676,329,632925.28,168885.8,513.3306990881458
+PROD-000985,David Yurman Diverse upward-trending knowledgebase Bracelets,Jewelry,David Yurman,746,360,543543.06,203233.87,564.5385277777777
+PROD-000986,Cartier Stand-alone eco-centric structure Bracelets,Jewelry,Cartier,760,341,539501.2,157482.12,461.82439882697946
+PROD-000987,Tous Enterprise-wide 24/7 support Bracelets,Jewelry,Tous,690,331,214155.3,59206.31,178.8710271903323
+PROD-000988,Swarovski Mandatory explicit open system Bracelets,Jewelry,Swarovski,705,333,266539.35,114344.3,343.37627627627626
+PROD-000989,Mikimoto Synergistic web-enabled core Bracelets,Jewelry,Mikimoto,702,344,606324.42,180943.04,525.9972093023256
+PROD-000990,Tiffany Enhanced reciprocal productivity Watches,Jewelry,Tiffany,709,345,414034.73000000004,104685.11,303.43510144927535
+PROD-000991,David Yurman Open-architected interactive migration Watches,Jewelry,David Yurman,702,334,288865.98,135685.14,406.24293413173655
+PROD-000992,David Yurman Inverse background initiative Watches,Jewelry,David Yurman,654,335,489008.88,200938.39,599.8160895522389
+PROD-000993,Tous Synchronized bandwidth-monitored contingency Watches,Jewelry,Tous,643,318,544653.15,274199.15,862.2614779874215
+PROD-000994,Cartier Devolved mission-critical Graphic Interface Watches,Jewelry,Cartier,771,360,749211.54,285552.39,793.2010833333334
+PROD-000995,Bvlgari Fully-configurable 24hour firmware Pendants,Jewelry,Bvlgari,718,336,516694.33999999997,141741.26,421.8489880952381
+PROD-000996,Messika Networked disintermediate knowledge user Pendants,Jewelry,Messika,782,361,757507.76,366529.63,1015.3175346260388
+PROD-000997,Tiffany Versatile encompassing groupware Pendants,Jewelry,Tiffany,765,332,560385.45,144034.16,433.83783132530124
+PROD-000998,Tiffany Innovative optimal success Pendants,Jewelry,Tiffany,713,345,577530.0,208613.67,604.6773043478262
+PROD-000999,Tous Re-engineered 24/7 firmware Pendants,Jewelry,Tous,662,320,115936.06,30227.39,94.46059375
+PROD-001000,Van Cleef Streamlined high-level solution Pendants,Jewelry,Van Cleef,683,322,235156.9,99024.85,307.5305900621118
+PROD-001001,Bvlgari Front-line analyzing secured line Pendants,Jewelry,Bvlgari,687,319,473391.09,130593.52,409.3840752351097
+PROD-001002,Tous Decentralized maximized function Chains,Jewelry,Tous,601,291,386821.63,138105.43,474.5891065292096
+PROD-001003,Tous Diverse impactful software Chains,Jewelry,Tous,694,342,632081.32,331429.03,969.0907309941522
+PROD-001004,Mikimoto Profit-focused tertiary throughput Chains,Jewelry,Mikimoto,680,322,67483.2,24394.19,75.75835403726708
+PROD-001005,Cartier Integrated system-worthy capability Chains,Jewelry,Cartier,729,341,248909.75999999998,100446.47,294.56442815249267
+PROD-001006,Cartier Sharable explicit hub Chains,Jewelry,Cartier,621,304,228124.35,65606.13,215.80963815789474
+PROD-001007,Van Cleef Seamless directional definition Chains,Jewelry,Van Cleef,770,359,88503.8,25570.1,71.2259052924791
+PROD-001008,Tous Devolved mission-critical collaboration Chains,Jewelry,Tous,681,331,314029.53,96127.75,290.41616314199393
+PROD-001009,Pandora Persevering value-added portal Chains,Jewelry,Pandora,690,335,71594.4,28604.36,85.38614925373135
+PROD-001010,Mikimoto Multi-layered intangible standardization Chains,Jewelry,Mikimoto,709,338,467691.85,151131.34,447.1341420118343
+PROD-001011,Messika Reactive methodical system engine Chains,Jewelry,Messika,688,344,164459.52,65189.14,189.50331395348837
+PROD-001012,Tiffany Public-key static data-warehouse Chains,Jewelry,Tiffany,729,340,106652.7,46068.07,135.49432352941176
+PROD-001013,Pandora Virtual dynamic software Gemstones,Jewelry,Pandora,720,341,331502.4,71675.2,210.19120234604105
+PROD-001014,David Yurman Versatile radical toolset Gemstones,Jewelry,David Yurman,670,341,363655.89999999997,165339.54,484.8666862170088
+PROD-001015,David Yurman Configurable multi-tasking knowledge user Gemstones,Jewelry,David Yurman,763,373,120279.31999999999,47153.1,126.41581769436996
+PROD-001016,Mikimoto Progressive tertiary hierarchy Gemstones,Jewelry,Mikimoto,792,355,569709.36,215003.52,605.6437183098591
+PROD-001017,Pandora Compatible non-volatile budgetary management Gemstones,Jewelry,Pandora,716,340,306254.68,129307.72,380.31682352941175
+PROD-001018,Kraft Heinz Centralized neutral middleware Beverages,Grocery,Kraft Heinz,692,336,35215.88,20917.04,62.25309523809524
+PROD-001019,Mars Exclusive object-oriented monitoring Beverages,Grocery,Mars,651,303,43870.89,17475.85,57.67607260726072
+PROD-001020,Coca-Cola Distributed composite Graphic Interface Beverages,Grocery,Coca-Cola,657,306,8087.67,5242.97,17.13388888888889
+PROD-001021,Kraft Heinz Programmable leadingedge budgetary management Beverages,Grocery,Kraft Heinz,727,345,24165.48,16011.460000000001,46.410028985507246
+PROD-001022,Unilever Synergized demand-driven structure Beverages,Grocery,Unilever,671,322,43111.75,22198.57,68.93965838509317
+PROD-001023,Mondelez Reduced mobile array Beverages,Grocery,Mondelez,745,356,4797.8,2018.92,5.671123595505618
+PROD-001024,Coca-Cola Profound local workforce Beverages,Grocery,Coca-Cola,739,332,51153.58,24993.4,75.28132530120483
+PROD-001025,Nestle Centralized logistical capacity Beverages,Grocery,Nestle,709,352,24623.57,15374.72,43.67818181818182
+PROD-001026,Kraft Heinz Profound intangible knowledgebase Beverages,Grocery,Kraft Heinz,763,343,66594.64,27907.09,81.36177842565597
+PROD-001027,Mars Re-contextualized analyzing open architecture Beverages,Grocery,Mars,713,355,14053.230000000001,6135.96,17.284394366197184
+PROD-001028,Coca-Cola Persistent systematic workforce Beverages,Grocery,Coca-Cola,683,329,60705.03999999999,37363.69,113.56744680851064
+PROD-001029,P&G Integrated uniform adapter Beverages,Grocery,P&G,770,376,55139.7,26697.53,71.00406914893617
+PROD-001030,Coca-Cola Object-based eco-centric ability Beverages,Grocery,Coca-Cola,727,327,4696.42,2378.18,7.2727217125382255
+PROD-001031,P&G User-friendly didactic paradigm Beverages,Grocery,P&G,702,327,33534.54,14169.41,43.331529051987765
+PROD-001032,P&G Compatible 6thgeneration interface Snacks,Grocery,P&G,736,355,62398.08,39504.95,111.28154929577464
+PROD-001033,General Mills Monitored tangible architecture Snacks,Grocery,General Mills,740,340,72386.8,45898.51,134.99561764705882
+PROD-001034,P&G Quality-focused analyzing architecture Snacks,Grocery,P&G,653,316,30162.07,19756.18,62.51955696202532
+PROD-001035,General Mills Phased 5thgeneration forecast Snacks,Grocery,General Mills,725,335,66613.0,37952.42,113.29080597014925
+PROD-001036,Nestle Open-source contextually-based throughput Snacks,Grocery,Nestle,711,345,32897.97,16399.86,47.535826086956526
+PROD-001037,PepsiCo Devolved zero administration project Pantry Staples,Grocery,PepsiCo,685,334,41785.0,20946.55,62.71422155688622
+PROD-001038,Mondelez Upgradable secondary instruction set Pantry Staples,Grocery,Mondelez,773,366,21636.27,10650.57,29.099918032786885
+PROD-001039,Mars Multi-layered homogeneous knowledge user Pantry Staples,Grocery,Mars,687,333,16439.91,7355.31,22.08801801801802
+PROD-001040,Mars Multi-tiered homogeneous artificial intelligence Pantry Staples,Grocery,Mars,698,346,4404.38,2740.02,7.919132947976879
+PROD-001041,Mars Synergized stable moratorium Pantry Staples,Grocery,Mars,683,336,20988.59,12732.07,37.89306547619047
+PROD-001042,P&G Devolved solution-oriented hardware Pantry Staples,Grocery,P&G,694,343,33728.4,16527.06,48.18384839650146
+PROD-001043,General Mills Decentralized context-sensitive monitoring Dairy,Grocery,General Mills,653,302,45004.76,29507.26,97.70615894039734
+PROD-001044,PepsiCo Object-based multi-tasking capacity Dairy,Grocery,PepsiCo,679,323,57484.14,25330.23,78.42176470588235
+PROD-001045,Kraft Heinz Upgradable directional ability Dairy,Grocery,Kraft Heinz,772,353,72266.92,38424.48,108.85121813031162
+PROD-001046,Unilever Versatile 3rdgeneration framework Dairy,Grocery,Unilever,713,336,45339.670000000006,21946.17,65.31598214285714
+PROD-001047,Kraft Heinz Persistent systematic success Dairy,Grocery,Kraft Heinz,706,348,38505.24,24909.8,71.57988505747126
+PROD-001048,Unilever Quality-focused interactive monitoring Meat,Grocery,Unilever,670,321,61954.9,31198.3,97.19096573208722
+PROD-001049,Unilever Multi-tiered discrete encryption Meat,Grocery,Unilever,640,319,19545.6,11394.12,35.71824451410659
+PROD-001050,Coca-Cola Persevering grid-enabled collaboration Meat,Grocery,Coca-Cola,696,355,47543.76,22520.94,63.4392676056338
+PROD-001051,Mondelez Grass-roots content-based success Meat,Grocery,Mondelez,750,329,48652.5,28486.04,86.58370820668694
+PROD-001052,PepsiCo Virtual bifurcated alliance Meat,Grocery,PepsiCo,715,343,32618.3,18772.99,54.73174927113703
+PROD-001053,Unilever Switchable intangible pricing structure Meat,Grocery,Unilever,707,335,66422.65000000001,43033.67,128.45871641791044
+PROD-001054,PepsiCo Visionary 3rdgeneration encoding Meat,Grocery,PepsiCo,687,326,22519.86,12518.82,38.40128834355828
+PROD-001055,Coca-Cola Expanded asymmetric attitude Meat,Grocery,Coca-Cola,708,318,23788.8,12163.3,38.24937106918239
+PROD-001056,Mondelez Right-sized 5thgeneration knowledge user Meat,Grocery,Mondelez,743,351,38375.95,16989.6,48.4034188034188
+PROD-001057,Mondelez Right-sized systematic strategy Meat,Grocery,Mondelez,721,355,55964.020000000004,31579.52,88.95639436619719
+PROD-001058,Unilever Business-focused dynamic support Meat,Grocery,Unilever,649,312,19288.28,12432.92,39.849102564102566
+PROD-001059,Coca-Cola Balanced impactful intranet Meat,Grocery,Coca-Cola,778,359,9102.6,5654.16,15.749749303621169
+PROD-001060,Unilever Focused needs-based data-warehouse Produce,Grocery,Unilever,672,327,59646.72,28599.89,87.4614373088685
+PROD-001061,Mars Versatile zero-defect approach Produce,Grocery,Mars,729,349,11292.210000000001,6906.07,19.788166189111745
+PROD-001062,General Mills Devolved motivating frame Produce,Grocery,General Mills,683,339,19636.25,10493.28,30.953628318584073
+PROD-001063,Nestle Focused upward-trending orchestration Produce,Grocery,Nestle,593,291,23067.7,13306.77,45.72773195876289
+PROD-001064,Kellogg's Intuitive object-oriented policy Produce,Grocery,Kellogg's,732,330,58545.36,33043.17,100.13081818181817
+PROD-001065,Mondelez Visionary systematic Graphic Interface Produce,Grocery,Mondelez,737,350,70398.24,40766.53,116.47579999999999
+PROD-001066,Mondelez Front-line exuding circuit Produce,Grocery,Mondelez,661,319,35059.44,15552.59,48.754200626959246
+PROD-001067,PepsiCo Switchable multi-state definition Produce,Grocery,PepsiCo,753,351,11099.22,6301.95,17.954273504273505
+PROD-001068,Coca-Cola Open-source exuding focus group Produce,Grocery,Coca-Cola,671,326,35428.799999999996,22049.84,67.63754601226994
+PROD-001069,Coca-Cola Centralized next generation parallelism Produce,Grocery,Coca-Cola,727,347,50388.37,22397.16,64.54512968299711
+PROD-001070,Kellogg's User-centric context-sensitive product Produce,Grocery,Kellogg's,725,341,55165.25,30845.51,90.45604105571847
+PROD-001071,P&G Synergistic interactive open architecture Produce,Grocery,P&G,684,335,13837.32,7073.78,21.11576119402985
+PROD-001072,PepsiCo Proactive actuating hardware Produce,Grocery,PepsiCo,784,344,55609.12,33918.42,98.60005813953488
+PROD-001073,Unilever Stand-alone static implementation Produce,Grocery,Unilever,692,334,14324.4,9458.27,28.31817365269461
+PROD-001074,PepsiCo Progressive foreground standardization Frozen Foods,Grocery,PepsiCo,729,342,54368.82,29413.19,86.00347953216374
+PROD-001075,Kellogg's Operative incremental collaboration Frozen Foods,Grocery,Kellogg's,765,366,9899.1,6270.89,17.13357923497268
+PROD-001076,Kraft Heinz Innovative homogeneous contingency Frozen Foods,Grocery,Kraft Heinz,678,339,60769.14,37168.77,109.64238938053096
+PROD-001077,Kellogg's Versatile national leverage Frozen Foods,Grocery,Kellogg's,713,338,10702.13,6467.41,19.134349112426037
+PROD-001078,Nestle Front-line directional framework Frozen Foods,Grocery,Nestle,679,320,42600.46,25432.18,79.4755625
+PROD-001079,General Mills Triple-buffered client-server workforce Frozen Foods,Grocery,General Mills,762,361,32118.3,19697.18,54.562825484764545
+PROD-001080,Mondelez Persistent analyzing open architecture Frozen Foods,Grocery,Mondelez,739,350,71084.41,37795.53,107.98722857142857
+PROD-001081,PepsiCo Open-source intangible open architecture Frozen Foods,Grocery,PepsiCo,764,359,33998.0,19284.89,53.718356545961
+PROD-001082,Kraft Heinz Progressive client-driven info-mediaries Frozen Foods,Grocery,Kraft Heinz,823,381,58564.68,28341.85,74.38805774278215
+PROD-001083,Nestle Fully-configurable eco-centric database Frozen Foods,Grocery,Nestle,680,338,35706.8,20677.8,61.176923076923075
+PROD-001084,P&G Managed secondary artificial intelligence Frozen Foods,Grocery,P&G,749,341,48670.020000000004,26366.75,77.32184750733138
+PROD-001085,Unilever Organized holistic array Frozen Foods,Grocery,Unilever,752,338,47030.08,29011.36,85.83242603550296
+PROD-001086,General Mills Public-key uniform core Frozen Foods,Grocery,General Mills,725,343,13463.25,6797.2,19.816909620991254
+PROD-001087,General Mills Business-focused encompassing implementation Frozen Foods,Grocery,General Mills,726,353,30658.98,13694.04,38.79331444759207
+PROD-001088,Mars Synergistic real-time portal Frozen Foods,Grocery,Mars,684,328,36416.16,20860.59,63.59935975609756
+PROD-001089,Coca-Cola Balanced asynchronous core Organic,Grocery,Coca-Cola,653,318,52442.43,34739.02,109.24220125786162
+PROD-001090,Nestle Virtual optimizing success Organic,Grocery,Nestle,766,357,44627.159999999996,22837.62,63.9709243697479
+PROD-001091,P&G Synchronized next generation data-warehouse Organic,Grocery,P&G,723,321,21010.38,14027.97,43.70084112149532
+PROD-001092,Kellogg's Polarized demand-driven groupware Organic,Grocery,Kellogg's,772,351,43147.08,19982.51,56.930227920227914
+PROD-001093,Coca-Cola Innovative 24/7 data-warehouse Organic,Grocery,Coca-Cola,769,357,65457.280000000006,35661.42,99.89193277310923
+PROD-001094,Unilever Ergonomic user-facing capability Organic,Grocery,Unilever,725,322,58145.0,31804.48,98.77167701863354
+PROD-001095,Mondelez User-friendly web-enabled matrices Organic,Grocery,Mondelez,667,317,57508.74,25678.41,81.0044479495268
+PROD-001096,PaperMate Fully-configurable tangible portal Paper Products,Office Supplies,PaperMate,729,324,23291.55,12010.45,37.069290123456796
+PROD-001097,Avery Triple-buffered demand-driven infrastructure Paper Products,Office Supplies,Avery,661,338,179468.11,103330.74,305.7122485207101
+PROD-001098,Sharpie Front-line neutral Graphic Interface Paper Products,Office Supplies,Sharpie,753,378,199115.79,103389.55,273.5173280423281
+PROD-001099,PaperMate Vision-oriented executive implementation Paper Products,Office Supplies,PaperMate,668,336,194214.32,117922.37,350.95943452380953
+PROD-001100,3M Persistent national projection Paper Products,Office Supplies,3M,733,333,23082.17,12114.55,36.38003003003003
+PROD-001101,Sharpie Multi-channeled fault-tolerant firmware Paper Products,Office Supplies,Sharpie,707,337,95946.97,36615.86,108.65240356083086
+PROD-001102,Mead Multi-lateral multimedia methodology Paper Products,Office Supplies,Mead,708,344,73023.12,40981.95,119.13357558139533
+PROD-001103,3M Persistent bandwidth-monitored website Paper Products,Office Supplies,3M,619,297,73060.56999999999,44579.33,150.0987542087542
+PROD-001104,Bic Up-sized methodical task-force Paper Products,Office Supplies,Bic,742,361,107315.45999999999,46916.76,129.963324099723
+PROD-001105,Five Star Intuitive demand-driven hub Paper Products,Office Supplies,Five Star,662,304,142687.48,86213.73,283.59779605263157
+PROD-001106,Office Depot Intuitive incremental analyzer Paper Products,Office Supplies,Office Depot,718,329,144957.02,69435.88,211.05130699088147
+PROD-001107,Office Depot Re-contextualized directional support Paper Products,Office Supplies,Office Depot,763,366,185637.9,78545.95,214.6064207650273
+PROD-001108,3M Digitized 3rdgeneration firmware Paper Products,Office Supplies,3M,721,341,21103.67,8352.36,24.493724340175955
+PROD-001109,Avery Reactive optimal paradigm Writing Instruments,Office Supplies,Avery,686,331,162424.22,71656.09,216.48365558912386
+PROD-001110,Post-it Up-sized intangible frame Writing Instruments,Office Supplies,Post-it,682,339,109270.04000000001,62917.2,185.59646017699114
+PROD-001111,Avery Distributed dedicated groupware Writing Instruments,Office Supplies,Avery,740,347,140555.6,62735.2,180.79308357348702
+PROD-001112,Post-it Focused homogeneous open system Writing Instruments,Office Supplies,Post-it,727,317,48374.58,19698.48,62.140315457413244
+PROD-001113,Post-it Fully-configurable modular neural-net Writing Instruments,Office Supplies,Post-it,715,320,195473.84999999998,86289.85,269.65578125
+PROD-001114,Mead Streamlined systemic Graphical User Interface Writing Instruments,Office Supplies,Mead,723,360,144383.1,56765.53,157.68202777777776
+PROD-001115,Post-it Function-based well-modulated matrix Writing Instruments,Office Supplies,Post-it,728,344,140787.91999999998,80114.21,232.89014534883722
+PROD-001116,Avery Up-sized secondary support Writing Instruments,Office Supplies,Avery,778,365,169417.28,92425.35,253.22013698630138
+PROD-001117,Office Depot Pre-emptive logistical concept Writing Instruments,Office Supplies,Office Depot,714,330,72121.14,39739.69,120.42330303030303
+PROD-001118,Post-it Upgradable heuristic concept Writing Instruments,Office Supplies,Post-it,647,314,86186.87,31813.82,101.31789808917198
+PROD-001119,Five Star Devolved uniform moratorium Office Furniture,Office Supplies,Five Star,676,323,43602.0,25578.48,79.19034055727555
+PROD-001120,Office Depot Pre-emptive contextually-based moratorium Office Furniture,Office Supplies,Office Depot,647,319,78293.47,31773.74,99.60420062695925
+PROD-001121,Sharpie Stand-alone analyzing moderator Office Furniture,Office Supplies,Sharpie,742,334,178755.22,99072.58,296.6244910179641
+PROD-001122,Avery Automated asynchronous secured line Office Furniture,Office Supplies,Avery,737,347,63809.46,24555.05,70.76383285302593
+PROD-001123,3M Business-focused well-modulated ability Office Furniture,Office Supplies,3M,732,345,76208.52,41970.79,121.65446376811595
+PROD-001124,3M Open-source client-driven product Office Furniture,Office Supplies,3M,627,310,132579.15,77848.3,251.12354838709678
+PROD-001125,Mead Focused asymmetric strategy Office Furniture,Office Supplies,Mead,698,341,60544.52,27143.32,79.5991788856305
+PROD-001126,Bic Distributed 24/7 data-warehouse Office Furniture,Office Supplies,Bic,684,332,161170.92,66266.35,199.59743975903615
+PROD-001127,PaperMate Profit-focused logistical hub Office Furniture,Office Supplies,PaperMate,734,364,26152.420000000002,11972.68,32.89197802197802
+PROD-001128,Avery Centralized regional productivity Office Furniture,Office Supplies,Avery,723,342,97879.73999999999,59255.1,173.26052631578946
+PROD-001129,Mead Synchronized reciprocal matrices Office Furniture,Office Supplies,Mead,790,353,15618.3,6090.28,17.252917847025493
+PROD-001130,PaperMate Switchable mobile adapter Technology,Office Supplies,PaperMate,710,344,121857.3,75317.04,218.94488372093022
+PROD-001131,Sharpie Adaptive national neural-net Technology,Office Supplies,Sharpie,747,359,77448.96,29898.13,83.28169916434541
+PROD-001132,Mead Open-source 24/7 adapter Technology,Office Supplies,Mead,753,353,78560.49,29933.37,84.7970821529745
+PROD-001133,Staples Progressive uniform focus group Technology,Office Supplies,Staples,702,327,175057.74,70847.81,216.65996941896023
+PROD-001134,Five Star Public-key executive adapter Technology,Office Supplies,Five Star,677,316,119991.48000000001,70504.6,223.11582278481015
+PROD-001135,Mead Profit-focused tangible service-desk Technology,Office Supplies,Mead,738,343,221163.84,115116.22,335.61580174927116
+PROD-001136,3M Optional context-sensitive benchmark Technology,Office Supplies,3M,805,362,196363.65,76755.4,212.03149171270718
+PROD-001137,Sharpie Cross-platform multi-tasking collaboration Technology,Office Supplies,Sharpie,690,322,55220.7,34458.64,107.0144099378882
+PROD-001138,PaperMate Front-line content-based process improvement Technology,Office Supplies,PaperMate,762,349,36362.64,21999.69,63.036361031518624
+PROD-001139,Avery Progressive eco-centric help-desk Technology,Office Supplies,Avery,677,323,160638.56,76547.85,236.9902476780186
+PROD-001140,PaperMate Future-proofed hybrid artificial intelligence Technology,Office Supplies,PaperMate,739,362,147622.63999999998,84910.04,234.5581215469613
+PROD-001141,Five Star Multi-layered impactful knowledgebase Technology,Office Supplies,Five Star,733,337,169806.78,80113.55,237.72566765578637
+PROD-001142,Staples Re-contextualized dynamic standardization Technology,Office Supplies,Staples,737,342,15690.73,6457.83,18.88254385964912
+PROD-001143,Five Star Face-to-face exuding software Storage,Office Supplies,Five Star,720,343,124833.59999999999,59364.21,173.07349854227405
+PROD-001144,PaperMate Configurable solution-oriented projection Storage,Office Supplies,PaperMate,760,356,136959.6,62868.18,176.59601123595505
+PROD-001145,Staples Virtual 5thgeneration array Storage,Office Supplies,Staples,781,347,179200.44999999998,90697.18000000001,261.3751585014409
+PROD-001146,PaperMate Open-architected homogeneous implementation Storage,Office Supplies,PaperMate,747,347,91791.36,51952.99,149.72043227665705
+PROD-001147,Staples Reactive methodical approach Storage,Office Supplies,Staples,790,365,220544.30000000002,83389.27,228.46375342465754
+PROD-001148,Post-it Sharable 24/7 standardization Storage,Office Supplies,Post-it,781,348,127326.43,72894.04,209.465632183908
+PROD-001149,Avery Down-sized attitude-oriented methodology Storage,Office Supplies,Avery,735,355,216472.19999999998,98965.65,278.7764788732394
+PROD-001150,Staples Optional secondary toolset Mail & Shipping,Office Supplies,Staples,734,364,159556.92,77433.65,212.72980769230767
+PROD-001151,Sharpie Managed non-volatile attitude Mail & Shipping,Office Supplies,Sharpie,667,324,94633.95999999999,42084.11,129.88922839506174
+PROD-001152,Five Star Progressive 6thgeneration emulation Mail & Shipping,Office Supplies,Five Star,765,362,90430.65,34868.21,96.32102209944752
+PROD-001153,Office Depot Extended system-worthy open system Mail & Shipping,Office Supplies,Office Depot,735,329,113998.5,50344.37,153.02240121580547
+PROD-001154,Staples Phased encompassing analyzer Mail & Shipping,Office Supplies,Staples,705,343,139667.55000000002,76676.25,223.54591836734693
+PROD-001155,Bic Compatible systemic focus group Mail & Shipping,Office Supplies,Bic,731,323,142121.02,68898.81,213.30900928792568
+PROD-001156,Bic Quality-focused non-volatile protocol Presentation,Office Supplies,Bic,762,350,163441.38,81942.53,234.12151428571428
+PROD-001157,Bic Automated context-sensitive functionalities Presentation,Office Supplies,Bic,721,359,182297.64,104654.52,291.5167688022284
+PROD-001158,Bic Ameliorated demand-driven parallelism Presentation,Office Supplies,Bic,706,333,166573.64,76692.03,230.3063963963964
+PROD-001159,Office Depot Digitized web-enabled structure Presentation,Office Supplies,Office Depot,686,329,173599.16,69712.02,211.89063829787236
+PROD-001160,3M Object-based asynchronous framework Presentation,Office Supplies,3M,723,336,119598.65999999999,56399.02,167.85422619047617
+PROD-001161,Office Depot Diverse non-volatile encoding Presentation,Office Supplies,Office Depot,757,364,41309.49,19360.15,53.18722527472528
+PROD-001162,Five Star Re-contextualized human-resource service-desk Presentation,Office Supplies,Five Star,729,350,202064.22,94585.31999999999,270.2437714285714
+PROD-001163,3M Quality-focused full-range info-mediaries Calendars,Office Supplies,3M,732,346,82664.76000000001,50183.64,145.03942196531793
+PROD-001164,Staples Versatile user-facing challenge Calendars,Office Supplies,Staples,757,364,100506.89,60684.95,166.7168956043956
+PROD-001165,Post-it Team-oriented uniform artificial intelligence Calendars,Office Supplies,Post-it,653,307,173358.44,67304.81,219.23390879478828
+PROD-001166,Five Star Profit-focused value-added hardware Calendars,Office Supplies,Five Star,741,360,52803.66,21355.99,59.32219444444445
+PROD-001167,Five Star Business-focused bandwidth-monitored Internet solution Calendars,Office Supplies,Five Star,657,323,44038.71,18926.670000000002,58.59650154798762
+PROD-001168,Avery Focused asynchronous Graphical User Interface Calendars,Office Supplies,Avery,755,351,183291.35,65310.23,186.06903133903134
+PROD-001169,PaperMate Robust zero administration pricing structure Calendars,Office Supplies,PaperMate,726,341,196194.24000000002,86789.11,254.51351906158357
+PROD-001170,3M Right-sized hybrid time-frame Calendars,Office Supplies,3M,699,340,101250.15,39708.84,116.79070588235292
+PROD-001171,Avery Inverse 4thgeneration productivity Calendars,Office Supplies,Avery,667,311,71522.41,43262.96,139.1091961414791
+PROD-001172,Staples Future-proofed zero tolerance knowledge user Calendars,Office Supplies,Staples,687,318,169634.03999999998,67619.93,212.64128930817608
+PROD-001173,Mead Pre-emptive discrete help-desk Calendars,Office Supplies,Mead,782,359,27119.760000000002,13552.9,37.751810584958214
+PROD-001174,Avery Reactive homogeneous Internet solution Calendars,Office Supplies,Avery,670,313,47657.1,27024.81,86.34124600638978
+PROD-001175,Office Depot Enterprise-wide systemic paradigm Calendars,Office Supplies,Office Depot,786,373,69073.68,40917.95,109.69959785522788

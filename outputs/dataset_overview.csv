@@ -1,0 +1,6 @@
+Dataset,Rows,Columns
+customers,25000,11
+statistics_summary,1,11
+sales,138116,46
+order_items,397569,12
+products,1175,9
